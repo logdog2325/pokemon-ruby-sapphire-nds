@@ -22,6 +22,9 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 - Every trade evolution happens in-game, by level-up or by using an item.
 - Emerald's event islands (Southern Island, Faraway Island, Birth Island and Navel Rock) unlock in-game, no Mystery Gift needed.
 - A bigger post-game: the National Dex, seven roaming legendaries, Jirachi, Celebi, Mirage Island and Altering Cave.
+- Your choice at the start of the adventure: the Fairy type (with Gen 6's type chart and new Fairy moves), modern or classic physical/special split, and Hoenn's original soundtrack (played on Black 2's instruments) or Black 2's music.
+- The Hoenn Battle Tower, and the Pokémon World Tournament on the Battle Tower island.
+- The Hoenn town map and Pokédex.
 
 ## Screenshots
 
@@ -42,7 +45,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v15.3.bps` or `Pokemon_Ruby_NDS_v15.3.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v16.bps` or `Pokemon_Ruby_NDS_v16.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic or DeSmuME.
 
@@ -50,7 +53,6 @@ Use in-game saves. When you update to a new version, your save carries over, but
 
 ## Coming soon
 
-- **Next update:** the Hoenn Battle Tower and the Pokémon World Tournament, plus an optional Fairy type you choose at the start of your adventure.
 - **Pokémon Emerald NDS**
 
 ## How it was made
