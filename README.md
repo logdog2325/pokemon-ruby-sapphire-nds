@@ -55,16 +55,19 @@ Use in-game saves. When you update to a new version, your save carries over, but
 
 - **Pokémon Emerald NDS**
 
-## How it was made
-
-This project was made with a lot of help from AI. Anthropic's Claude wrote most of the code and tooling: the map converters, script ports, patches and test tools. The creator directed the project, made the design decisions, reviewed the results and play-tested. Everything was built from the original games' own data, the open decompilation projects below and Black 2's own assets. No outside ROMs or game files were downloaded.
-
 ## Credits
 
 - **Game Freak, Nintendo, Creatures and The Pokémon Company:** Pokémon Ruby, Sapphire, Emerald and Black 2.
 - **[pret](https://github.com/pret):** the pokeruby and pokeemerald decompilations.
 - **[pokebw2](https://github.com/fuddlesworth/pokebw2):** the Pokémon Black 2 / White 2 decompilation.
-- **CTRMap / CTRMapV** by HelloOO7, and **apicula** by scurest: Nintendo DS model tools.
-- **ds-decomp (dsd)**, **DeSmuME** and **melonDS**: disassembly and testing.
+
+Tools used:
+- **ds-decomp (dsd)** by AetiasHax: DS disassembly.
+- **CTRMap / CTRMapV** by HelloOO7: DS 3D model writing.
+- **apicula** by scurest: DS model tools.
+- **DeSmuME**, **py-desmume** and **melonDS**: testing.
+- **Python, NumPy and Pillow**: build tools.
+
+AI (Claude by Anthropic) was used to help code this project.
 
 This is a non-commercial fan project. It is not affiliated with or endorsed by Nintendo, Game Freak, Creatures or The Pokémon Company. Please support the official games.
