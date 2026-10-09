@@ -1,0 +1,6 @@
+# never publish game files
+*.nds
+*.gba
+*.sav
+*.dsv
+.DS_Store
