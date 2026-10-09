@@ -31,10 +31,11 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 | Sapphire | Ruby |
 |---|---|
 | <img src="screenshots/sapphire/02_sootopolis_city.png" width="256"> | <img src="screenshots/ruby/06_lilycove_drought.png" width="256"> |
+| <img src="screenshots/sapphire/03_fortree_city.png" width="256"> | <img src="screenshots/ruby/08_double_battle.png" width="256"> |
 | <img src="screenshots/sapphire/06_lilycove_storm.png" width="256"> | <img src="screenshots/ruby/07_team_magma_battle.png" width="256"> |
 | <img src="screenshots/sapphire/07_team_aqua_battle.png" width="256"> | <img src="screenshots/ruby/09_groudon_appears.png" width="256"> |
-| <img src="screenshots/sapphire/09_kyogre_appears.png" width="256"> | <img src="screenshots/ruby/10_groudon_battle.png" width="256"> |
-| <img src="screenshots/sapphire/10_kyogre_battle.png" width="256"> | <img src="screenshots/ruby/08_double_battle.png" width="256"> |
+| <img src="screenshots/sapphire/08_double_battle.png" width="256"> | <img src="screenshots/ruby/05b_underwater_dive.png" width="256"> |
+| <img src="screenshots/sapphire/05_route113_ash.png" width="256"> | <img src="screenshots/ruby/10_groudon_battle.png" width="256"> |
 
 More shots, with captions, are in [screenshots/](screenshots/).
 
@@ -44,7 +45,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v16.1.bps` or `Pokemon_Ruby_NDS_v16.1.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v16.2.bps` or `Pokemon_Ruby_NDS_v16.2.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic or DeSmuME.
 
