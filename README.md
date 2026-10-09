@@ -45,7 +45,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v15.3.bps` or `Pokemon_Ruby_NDS_v15.3.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v16.1.bps` or `Pokemon_Ruby_NDS_v16.1.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic or DeSmuME.
 
