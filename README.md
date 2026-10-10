@@ -47,7 +47,8 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
 2. Download `Pokemon_Sapphire_NDS_v16.3.bps` or `Pokemon_Ruby_NDS_v16.3.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
-4. Play the patched `.nds` in an emulator such as melonDS, DraStic or DeSmuME.
+   **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
+4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
 
 Use in-game saves. When you update to a new version, your save carries over, but emulator save states don't.
 
