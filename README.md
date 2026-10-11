@@ -9,6 +9,8 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 
 **This repository contains patches only.** No ROMs are provided. You need your own dump of Pokémon Black Version 2.
 
+**Join the Discord** to report bugs, make suggestions and follow updates: https://discord.gg/5qxKVHKxW
+
 ## Two versions
 
 **Pokémon Sapphire NDS:** Team Aqua plans to expand the seas by awakening the legendary Kyogre, and you chase them from Slateport's harbour to the depths of Seafloor Cavern.
@@ -51,6 +53,10 @@ More shots, with captions, are in [screenshots/](screenshots/).
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
 
 Use in-game saves. When you update to a new version, your save carries over, but emulator save states don't.
+
+## Bug reports and suggestions
+
+Please report bugs and share suggestions on the [Discord](https://discord.gg/5qxKVHKxW), or open an issue here. A screenshot, your version (Sapphire or Ruby, and the version number) and where it happened help a lot.
 
 ## Coming soon
 
