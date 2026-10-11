@@ -1,6 +1,6 @@
 # Pokémon Ruby NDS: screenshot captions
 
-1. `01_title_ruby.png` and `01_title_ruby.gif`: The title screen, with Groudon idling on the touch screen (the GIF is one full loop of the animation).
+1. `01_title_ruby.png` and `01_title_ruby.gif`: The title screen. The touch screen shows Ruby's own title scene: Groudon behind the rippling sea, with rising bubbles and its markings glowing (the GIF is one full loop).
 2. `02_sootopolis_city.png`: Sootopolis City: the Gym on its island in the crater lake, with animated water.
 3. `03_fortree_city.png`: Fortree City: log tree houses on stilts among the trees.
 5. `05_route113_ash.png`: Route 113: volcanic ash falls over the ash-covered grass and trees.
