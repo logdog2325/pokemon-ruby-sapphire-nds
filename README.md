@@ -32,12 +32,12 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 
 | Sapphire | Ruby |
 |---|---|
-| <img src="screenshots/sapphire/02_sootopolis_city.png" width="256"> | <img src="screenshots/ruby/06_lilycove_drought.png" width="256"> |
-| <img src="screenshots/sapphire/03_fortree_city.png" width="256"> | <img src="screenshots/ruby/04_meteor_falls.png" width="256"> |
-| <img src="screenshots/sapphire/06_lilycove_storm.png" width="256"> | <img src="screenshots/ruby/07_team_magma_battle.png" width="256"> |
-| <img src="screenshots/sapphire/07_team_aqua_battle.png" width="256"> | <img src="screenshots/ruby/09_groudon_appears.png" width="256"> |
-| <img src="screenshots/sapphire/08_double_battle.png" width="256"> | <img src="screenshots/ruby/05b_underwater_dive.png" width="256"> |
-| <img src="screenshots/sapphire/05_route113_ash.png" width="256"> | <img src="screenshots/ruby/10_groudon_battle.png" width="256"> |
+| <img src="screenshots/sapphire/04_mossdeep_city.png" alt="Mossdeep City: Black 2's palms" width="256"> | <img src="screenshots/ruby/03_fortree_city.png" alt="Fortree City: tree houses among Black 2's trees" width="256"> |
+| <img src="screenshots/sapphire/05_lilycove_city.png" alt="Lilycove City: doors set into the walls" width="256"> | <img src="screenshots/ruby/07_victory_road.png" alt="Victory Road" width="256"> |
+| <img src="screenshots/sapphire/10_sootopolis_kyogre_storm.png" alt="Kyogre's storm over Sootopolis City" width="256"> | <img src="screenshots/ruby/09_sootopolis_groudon_drought.png" alt="Groudon's drought over Sootopolis City" width="256"> |
+| <img src="screenshots/sapphire/09_underwater_dive.png" alt="Diving on the seabed" width="256"> | <img src="screenshots/ruby/10_pwt_battle_tower.png" alt="The Pokémon World Tournament and the Battle Tower" width="256"> |
+| <img src="screenshots/sapphire/12_archie_battle_throw.png" alt="Brendan throws his Poké Ball (NEW sprites)" width="256"> | <img src="screenshots/ruby/12_maxie_battle.png" alt="Maxie's NEW battle sprite" width="256"> |
+| <img src="screenshots/sapphire/14_pokedex_area.png" alt="The Pokédex AREA page on the Hoenn map" width="256"> | <img src="screenshots/ruby/15_trainer_card.png" alt="The trainer card" width="256"> |
 
 More shots, with captions, are in [screenshots/](screenshots/).
 
