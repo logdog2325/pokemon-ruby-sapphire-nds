@@ -33,7 +33,7 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 | Sapphire | Ruby |
 |---|---|
 | <img src="screenshots/sapphire/02_sootopolis_city.png" width="256"> | <img src="screenshots/ruby/06_lilycove_drought.png" width="256"> |
-| <img src="screenshots/sapphire/03_fortree_city.png" width="256"> | <img src="screenshots/ruby/08_double_battle.png" width="256"> |
+| <img src="screenshots/sapphire/03_fortree_city.png" width="256"> | <img src="screenshots/ruby/04_meteor_falls.png" width="256"> |
 | <img src="screenshots/sapphire/06_lilycove_storm.png" width="256"> | <img src="screenshots/ruby/07_team_magma_battle.png" width="256"> |
 | <img src="screenshots/sapphire/07_team_aqua_battle.png" width="256"> | <img src="screenshots/ruby/09_groudon_appears.png" width="256"> |
 | <img src="screenshots/sapphire/08_double_battle.png" width="256"> | <img src="screenshots/ruby/05b_underwater_dive.png" width="256"> |
@@ -47,7 +47,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v16.3.bps` or `Pokemon_Ruby_NDS_v16.3.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v16.4.bps` or `Pokemon_Ruby_NDS_v16.4.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
@@ -67,6 +67,12 @@ Please report bugs and share suggestions on the [Discord](https://discord.gg/5qx
 - **Game Freak, Nintendo, Creatures and The Pokémon Company:** Pokémon Ruby, Sapphire, Emerald and Black 2.
 - **[pret](https://github.com/pret):** the pokeruby and pokeemerald decompilations.
 - **[pokebw2](https://github.com/fuddlesworth/pokebw2):** the Pokémon Black 2 / White 2 decompilation.
+
+Sprites (the NEW sprite set, chosen at the start of the game):
+- **hyo-oppa:** Brendan.
+- **DiegoWT:** May (commissioned by Zailens) and Archie (commissioned by Kyledove).
+- **joojishibuki:** Maxie's battle sprite.
+- **Kimmylube** and **AzureAquarian:** Team Aqua and Team Magma grunts.
 
 Tools used:
 - **ds-decomp (dsd)** by AetiasHax: DS disassembly.
