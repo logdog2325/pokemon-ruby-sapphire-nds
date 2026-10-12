@@ -70,7 +70,7 @@ Please report bugs and share suggestions on the [Discord](https://discord.gg/5qx
 
 Sprites (the NEW sprite set, chosen at the start of the game):
 - **hyo-oppa:** Brendan.
-- **DiegoWT:** May (commissioned by Zailens) and Archie (commissioned by Kyledove).
+- **DiegoWT:** May and Archie (originally commissioned by Zailens and Kyledove).
 - **joojishibuki:** Maxie's battle sprite.
 - **Kimmylube** and **AzureAquarian:** Team Aqua and Team Magma grunts.
 
