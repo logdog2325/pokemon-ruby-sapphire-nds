@@ -1,21 +1,24 @@
-# Pokémon Ruby & Sapphire NDS
+# Pokémon Ruby, Sapphire & Emerald NDS
 
-Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. The whole Hoenn region is rebuilt in Black 2's 3D overworld, and the complete story plays out with Black 2's music and battle system. Hoenn's characters are their original sprites, resized and animated for the DS.
+Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon Black 2. The whole Hoenn region is rebuilt in Black 2's 3D overworld, and the complete story plays out with Black 2's music and battle system. Hoenn's characters are their original sprites, resized and animated for the DS.
 
 <p>
 <img src="screenshots/sapphire/01_title_sapphire.gif" alt="Sapphire title screen" width="256">
 <img src="screenshots/ruby/01_title_ruby.gif" alt="Ruby title screen" width="256">
+<img src="screenshots/emerald_title.gif" alt="Emerald title screen" width="256">
 </p>
 
 **This repository contains patches only.** No ROMs are provided. You need your own dump of Pokémon Black Version 2.
 
 **Join the Discord** to report bugs, make suggestions and follow updates: https://discord.gg/5qxKVHKxW
 
-## Two versions
+## Three versions
 
 **Pokémon Sapphire NDS:** Team Aqua plans to expand the seas by awakening the legendary Kyogre, and you chase them from Slateport's harbour to the depths of Seafloor Cavern.
 
 **Pokémon Ruby NDS:** Team Magma plans to expand the land by awakening the legendary Groudon. You face Maxie, Tabitha and Courtney, explore Magma Hideout, and meet Groudon under a scorching sky.
+
+**Pokémon Emerald NDS (new, v1.0):** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
 
 ## Modern quality-of-life features
 
@@ -27,6 +30,7 @@ Pokémon Ruby and Sapphire, remade on the Nintendo DS inside Pokémon Black 2. T
 - Your choice at the start of the adventure: the Fairy type (with Gen 6's type chart and new Fairy moves), modern or classic physical/special split, and Hoenn's original soundtrack (played on Black 2's instruments) or Black 2's music.
 - The Hoenn Battle Tower, and the Pokémon World Tournament on the Battle Tower island.
 - The Hoenn town map and Pokédex.
+- Emerald only: the Battle Frontier (Tower, Dome, Palace, Arena, Factory, Pike and Pyramid, with Battle Points and their prizes), the move tutors, and Emerald's post-game (Steven in Meteor Falls, Groudon and Kyogre in Terra and Marine Cave, the Johto starters).
 
 ## Screenshots
 
@@ -47,7 +51,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v16.7.bps` or `Pokemon_Ruby_NDS_v16.7.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v16.8.bps`, `Pokemon_Ruby_NDS_v16.8.bps` or `Pokemon_Emerald_NDS_v1.0.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
@@ -56,20 +60,17 @@ Use in-game saves. When you update to a new version, your save carries over, but
 
 ## Bug reports and suggestions
 
-Please report bugs and share suggestions on the [Discord](https://discord.gg/5qxKVHKxW), or open an issue here. A screenshot, your version (Sapphire or Ruby, and the version number) and where it happened help a lot.
-
-## Coming soon
-
-- **Pokémon Emerald NDS**
+Please report bugs and share suggestions on the [Discord](https://discord.gg/5qxKVHKxW), or open an issue here. A screenshot, your version (Sapphire, Ruby or Emerald, and the version number) and where it happened help a lot.
 
 ## Credits
 
 - **Game Freak, Nintendo, Creatures and The Pokémon Company:** Pokémon Ruby, Sapphire, Emerald and Black 2.
-- **[pret](https://github.com/pret):** the pokeruby and pokeemerald decompilations.
+- **[pret](https://github.com/pret):** the pokeruby and pokeemerald decompilations (Emerald's maps, story, trainers and Battle Frontier come from pokeemerald).
 - **[pokebw2](https://github.com/fuddlesworth/pokebw2):** the Pokémon Black 2 / White 2 decompilation.
+- **Emerald's own art and music:** Emerald's title screen, character outfits, Steven's battle back sprite and Emerald's new songs (including the 13 Battle Frontier songs) come from the original Pokémon Emerald, converted for the DS.
 
 Sprites (the NEW sprite set, chosen at the start of the game):
-- **hyo-oppa:** Brendan (overworld, battle front and back) and Wally (battle front).
+- **hyo-oppa:** Brendan (overworld, battle front and back), Emerald's Brendan (battle front and back) and Wally (battle front).
 - **CalculusNova:** Wally (overworld; CC BY-NC-SA 3.0).
 - **DiegoWT:** May and Archie (originally commissioned by Zailens and Kyledove).
 - **joojishibuki:** Maxie's battle sprite.
