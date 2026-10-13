@@ -62,6 +62,10 @@ Use in-game saves. When you update to a new version, your save carries over, but
 
 Please report bugs and share suggestions on the [Discord](https://discord.gg/5qxKVHKxW), or open an issue here. A screenshot, your version (Sapphire, Ruby or Emerald, and the version number) and where it happened help a lot.
 
+## Source code
+
+The code that builds these games is open source (MIT License) at **[logdog2325/HoennB2](https://github.com/logdog2325/HoennB2)**, for anyone who wants to learn from it or reuse it in their own projects. It contains no ROMs; you build from your own dumps.
+
 ## Credits
 
 - **Game Freak, Nintendo, Creatures and The Pokémon Company:** Pokémon Ruby, Sapphire, Emerald and Black 2.
