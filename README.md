@@ -51,12 +51,27 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v17.0.1.bps`, `Pokemon_Ruby_NDS_v17.0.1.bps` or `Pokemon_Emerald_NDS_v1.0.4.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v18.0.bps`, `Pokemon_Ruby_NDS_v18.0.bps` or `Pokemon_Emerald_NDS_v1.1.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
 
 Use in-game saves. When you update to a new version, your save carries over, but emulator save states don't.
+
+## Player guide
+
+The [player guide](docs/README.md) lists each version's wild Pokémon, item locations and important trainers, plus the TMs and HMs, the Fairy type changes, the trade evolutions, the start-of-game options and Emerald's Battle Frontier rules.
+
+## Trading and battling with friends
+
+Every Pokémon Center has the Cable Club upstairs. Once you have your Pokédex:
+- **Left desk, Union Room (local wireless):** trade and battle with players near you, or with a second emulator window (melonDS: System → Multiplayer → Launch new instance).
+- **Middle desk, Wi-Fi Club (online):** trade and battle with friends registered in your Pal Pad (Key Items). Online play needs a Wiimmfi-patched ROM, as for Black 2. It hasn't been tested with two real players yet.
+
+Sapphire, Ruby and Emerald NDS all meet each other, so you can complete the Hoenn Pokédex by trading.
+- Everyone needs **Sapphire/Ruby NDS v18.0 or Emerald NDS v1.1, or later**. Older versions and the original Black 2/White 2 don't show up, because they can't safely read the Fairy moves and new items.
+- **Trade evolutions work both ways:** trade them (Kadabra, Machoke, Onix holding a Metal Coat…) or use the in-game ways (levels, items from the Bag).
+- **Link battles use the host's rules:** the Fairy type and the physical/special split follow the answers of the player whose game hosts the battle. Pick the same answers at the start of the game if you always want your own rules.
 
 ## Bug reports and suggestions
 
@@ -75,7 +90,7 @@ The code that builds these games is open source (MIT License) at **[logdog2325/H
 
 Sprites (the NEW sprite set, chosen at the start of the game):
 - **hyo-oppa:** Brendan (overworld, battle front and back), Emerald's Brendan (battle front and back) and Wally (battle front).
-- **CalculusNova:** Wally (overworld; CC BY-NC-SA 3.0).
+- **Kymotonian and Klein Studio:** Wally (overworld).
 - **Wolfang62:** Professor Birch (overworld).
 - **DiegoWT:** May and Archie (originally commissioned by Zailens and Kyledove).
 - **joojishibuki:** Maxie's battle sprite.
