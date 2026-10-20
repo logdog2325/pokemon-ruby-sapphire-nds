@@ -306,7 +306,7 @@ Berry trees work as in Gen 3: pick a ripe tree, then plant any berry in the soft
 
 - Hidden: Leftovers
 
-## Safari Zone Northeast
+## Safari Zone North
 
 - Items: Calcium, Calcium
 

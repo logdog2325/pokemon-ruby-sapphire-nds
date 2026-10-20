@@ -18,12 +18,12 @@ Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon B
 
 **Pokémon Ruby NDS:** Team Magma plans to expand the land by awakening the legendary Groudon. You face Maxie, Tabitha and Courtney, explore Magma Hideout, and meet Groudon under a scorching sky.
 
-**Pokémon Emerald NDS (new, v1.0):** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
+**Pokémon Emerald NDS:** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
 
 ## Modern quality-of-life features
 
 - Field moves work without teaching HMs: just the badge and the HM in your Bag.
-- A Gen 6-style Exp. Share you switch on and off. Opponent levels are scaled to match it.
+- A Gen 6-style Exp. Share you switch on and off. Opponent levels are [scaled to match it](docs/levels.md).
 - Every trade evolution happens in-game, by level-up or by using an item.
 - Emerald's event islands (Southern Island, Faraway Island, Birth Island and Navel Rock) unlock in-game, no Mystery Gift needed.
 - A bigger post-game: the National Dex, seven roaming legendaries, Jirachi, Celebi, Mirage Island and Altering Cave.
@@ -51,16 +51,17 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v18.0.bps`, `Pokemon_Ruby_NDS_v18.0.bps` or `Pokemon_Emerald_NDS_v1.1.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v18.1.bps`, `Pokemon_Ruby_NDS_v18.1.bps` or `Pokemon_Emerald_NDS_v1.2.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
+   On a real DS, DSi or 3DS with TWiLight Menu++, keep TWiLight Menu++ and nds-bootstrap up to date: older versions freeze when you open a Pokémon's Summary.
 
 Use in-game saves. When you update to a new version, your save carries over, but emulator save states don't.
 
 ## Player guide
 
-The [player guide](docs/README.md) lists each version's wild Pokémon, item locations and important trainers, plus the TMs and HMs, the Fairy type changes, the trade evolutions, the start-of-game options and Emerald's Battle Frontier rules.
+The [player guide](docs/README.md) lists each version's wild Pokémon, item locations and important trainers, plus the TMs and HMs, the Fairy type changes, the trade evolutions, the start-of-game options, how levels work with the Exp. Share, everything to do after the Hall of Fame (event islands, roaming legendaries, gifts, rematches) and Emerald's Battle Frontier rules.
 
 ## Trading and battling with friends
 

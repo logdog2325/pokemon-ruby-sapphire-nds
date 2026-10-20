@@ -10,6 +10,8 @@ Made from the game's own data, so it matches the current release.
 | Wild Pokémon | [Sapphire](wild-pokemon-sapphire.md) | [Ruby](wild-pokemon-ruby.md) | [Emerald](wild-pokemon-emerald.md) |
 | Item locations | [Sapphire](items-sapphire.md) | [Ruby](items-ruby.md) | [Emerald](items-emerald.md) |
 | Important trainers | [Sapphire](trainers-sapphire.md) | [Ruby](trainers-ruby.md) | [Emerald](trainers-emerald.md) |
+| After the Hall of Fame | [Sapphire](postgame-sapphire.md) | [Ruby](postgame-ruby.md) | [Emerald](postgame-emerald.md) |
+| Levels and the Exp. Share | [Sapphire](levels.md) | [Ruby](levels.md) | [Emerald](levels.md) |
 
 - [Start-of-game options](options.md)
 - [The Fairy type (optional)](fairy-type.md)

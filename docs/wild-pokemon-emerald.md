@@ -64,7 +64,7 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Granite Cave Steven's Room](#granite-cave-stevens-room)
 - [Jagged Pass](#jagged-pass)
 - [Lilycove City](#lilycove-city)
-- [Magma Hideout 1F Emerald / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F](#magma-hideout-1f-emerald--magma-hideout-2f-1r--magma-hideout-2f-2r--magma-hideout-2f-3r--magma-hideout-3f-1r--magma-hideout-3f-2r--magma-hideout-3f-3r--magma-hideout-4f)
+- [Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F](#magma-hideout-1f--magma-hideout-2f-1r--magma-hideout-2f-2r--magma-hideout-2f-3r--magma-hideout-3f-1r--magma-hideout-3f-2r--magma-hideout-3f-3r--magma-hideout-4f)
 - [Meteor Falls 1F 1R](#meteor-falls-1f-1r)
 - [Meteor Falls 1F 2R](#meteor-falls-1f-2r)
 - [Meteor Falls B1F 1R](#meteor-falls-b1f-1r)
@@ -82,8 +82,10 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Petalburg City](#petalburg-city)
 - [Petalburg Woods](#petalburg-woods)
 - [Rusturf Tunnel](#rusturf-tunnel)
+- [Safari Zone North](#safari-zone-north)
 - [Safari Zone Northeast](#safari-zone-northeast)
 - [Safari Zone Northwest](#safari-zone-northwest)
+- [Safari Zone South](#safari-zone-south)
 - [Safari Zone Southeast](#safari-zone-southeast)
 - [Safari Zone Southwest](#safari-zone-southwest)
 - [Seafloor Cavern Entrance](#seafloor-cavern-entrance)
@@ -1518,7 +1520,7 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Wailmer | 26-49 | 85% |
 | Staryu | 26-32 | 15% |
 
-## Magma Hideout 1F Emerald / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F
+## Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F
 
 **Grass and cave floor**
 
@@ -1870,7 +1872,7 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 |---|---|---|
 | Whismur | 5-8 | 100% |
 
-## Safari Zone Northeast
+## Safari Zone North
 
 **Grass and cave floor**
 
@@ -1882,6 +1884,27 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Gloom | 31-33 | 15% |
 | Xatu | 31-33 | 5% |
 | Heracross | 28-31 | 5% |
+
+**Rock Smash**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 5-32 | 100% |
+
+## Safari Zone Northeast
+
+**Grass and cave floor**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Aipom | 35-38 | 30% |
+| Teddiursa | 37-39 | 30% |
+| Sunkern | 37 | 10% |
+| Ledyba | 35 | 10% |
+| Hoothoot | 38 | 5% |
+| Pineco | 37 | 5% |
+| Houndour | 39-42 | 5% |
+| Miltank | 40-44 | 5% |
 
 **Rock Smash**
 
@@ -1930,7 +1953,7 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Goldeen | 26-38 | 80% |
 | Seaking | 26-44 | 20% |
 
-## Safari Zone Southeast
+## Safari Zone South
 
 **Grass and cave floor**
 
@@ -1943,6 +1966,52 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Wobbuffet | 28-31 | 10% |
 | Gloom | 26 | 5% |
 | Pikachu | 26-28 | 5% |
+
+## Safari Zone Southeast
+
+**Grass and cave floor**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sunkern | 35-38 | 30% |
+| Mareep | 37-39 | 30% |
+| Aipom | 37 | 10% |
+| Spinarak | 35 | 10% |
+| Hoothoot | 38 | 5% |
+| Snubbull | 37 | 5% |
+| Stantler | 39-42 | 5% |
+| Gligar | 40-44 | 5% |
+
+**Surfing**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wooper | 26-32 | 60% |
+| Marill | 26-38 | 39% |
+| Quagsire | 38-44 | 1% |
+
+**Old Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 26-32 | 70% |
+| Goldeen | 26-32 | 30% |
+
+**Good Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 26-32 | 60% |
+| Goldeen | 26-32 | 20% |
+| Remoraid | 32-38 | 20% |
+
+**Super Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Remoraid | 26-38 | 59% |
+| Goldeen | 26-32 | 40% |
+| Octillery | 38-44 | 1% |
 
 ## Safari Zone Southwest
 

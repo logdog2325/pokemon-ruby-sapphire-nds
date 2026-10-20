@@ -3,7 +3,7 @@
 
 # Start-of-game options
 
-Before your adventure starts, Professor Birch asks five questions. Your answers set these options, and they can't be changed later.
+Before your adventure starts, Professor Birch asks six questions. Your answers set these options, and they can't be changed later.
 
 | Question | Answers | What it changes |
 |---|---|---|
@@ -12,3 +12,4 @@ Before your adventure starts, Professor Birch asks five questions. Your answers 
 | Music | Hoenn / Unova | Hoenn's original soundtrack played on Black 2's instruments, or Black 2's music. |
 | Character sprites | Classic / New | The Gen 3 style overworld sprites, or new Gen 5 style ones. |
 | Seasons | Yes / No | Yes: Black 2's seasons follow the month on your DS clock (spring: Jan/May/Sep, summer: Feb/Jun/Oct, autumn: Mar/Jul/Nov, winter: Apr/Aug/Dec). No: summer all year, as in Ruby and Sapphire. |
+| The Exp. Share | Yes / No | Yes: you start with the Exp. Share in your Key Items, switched on: Pokémon that don't battle still gain Exp. Points. Use it in the Bag to switch it off or on. No: Mr. Stone gives it to you in Rustboro after you deliver his Letter, as in the original games. |
