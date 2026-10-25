@@ -51,7 +51,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v18.2.bps`, `Pokemon_Ruby_NDS_v18.2.bps` or `Pokemon_Emerald_NDS_v1.3.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v18.3.bps`, `Pokemon_Ruby_NDS_v18.3.bps` or `Pokemon_Emerald_NDS_v1.4.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
@@ -93,9 +93,14 @@ Sprites (the NEW sprite set, chosen at the start of the game):
 - **hyo-oppa:** Brendan (overworld, battle front and back), Emerald's Brendan (battle front and back) and Wally (battle front).
 - **Kymotonian and Klein Studio:** Wally (overworld).
 - **Wolfang62:** Professor Birch (overworld).
-- **DiegoWT:** May and Archie (originally commissioned by Zailens and Kyledove).
+- **DiegoWT:** May and Archie (originally commissioned by Zailens and Kyledove); Shelly, the Pokémon Center nurse, the Cycling Triathletes, Aroma Lady, Rich Boy, Pokémon Ranger, Devon staff and the cook (overworld).
 - **joojishibuki:** Maxie's battle sprite.
 - **Kimmylube** and **AzureAquarian:** Team Aqua and Team Magma grunts.
+- **PurpleZaffre:** most trainer overworlds (Youngster, Twins, School Kids, Picnicker, Camper, Swimmers, Tubers, Ace Trainers, Beauty, Lady, Parasol Lady, Bird Keeper, Battle Girl, Psychics, Ninja Boy, Bug Catcher, Bug Maniac, Poké Maniac, Collector, Pokémon Breeders, Gentleman, Black Belt, Triathletes, Fisherman, Hiker, Sailor), the scientists, the Mart clerk, Mom, Gabby, Ty and Maxie.
+- **izzyvicious:** Drake, Phoebe, Sidney, Courtney and the Frontier Brains (overworld).
+- **brawlzilla:** Dragon Tamer, Kindler and the Experts (overworld).
+- **pokelustcompany:** Hex Maniac (overworld).
+- Shared on our Discord, artists still to be named: Lass and Poké Fans, and recolours of some sheets above.
 
 Tools used:
 - **ds-decomp (dsd)** by AetiasHax: DS disassembly.
