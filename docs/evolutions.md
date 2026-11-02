@@ -36,4 +36,8 @@ Every Pokémon that evolves by trading can also evolve without a trade here (tra
 | Shelmet | Accelgor | level up with Karrablast in the party |
 | Shelmet | Accelgor | level up with Escavalier in the party |
 
-Items with no other source in Hoenn (and the Metal Coat and Dragon Scale) are sold at the Lilycove Department Store, 3F: Up-Grade, Dubious Disc, Protector, Electirizer, Magmarizer, Reaper Cloth, Prism Scale, Metal Coat, Dragon Scale.
+Items with no other source in Hoenn (and the Metal Coat and Dragon Scale) are sold at the Lilycove Department Store, 3F (the right clerk): Up-Grade, Dubious Disc, Protector, Electirizer, Magmarizer, Reaper Cloth, Prism Scale, Metal Coat, Dragon Scale, Shiny Stone, Dusk Stone, Dawn Stone, Oval Stone.
+
+## Evolution stones
+
+The Fire, Water, Thunder, Leaf, Moon and Sun Stones are found in Hoenn. The Shiny, Dusk and Dawn Stones and the Oval Stone are not, so the Lilycove Department Store sells them for 2,100 each. Use a stone from the Bag; a Happiny evolves when it levels up during the day holding an Oval Stone. The Razor Claw and Razor Fang (held at night, Weavile and Gliscor) are sold for 8 BP in the Pokémon World Tournament lobby.

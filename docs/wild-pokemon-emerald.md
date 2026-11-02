@@ -721,6 +721,8 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 |---|---|---|
 | Carvanha | 20-49 | 100% |
 
+**Feebas: fish on Route 119, 6 spots.** Six water tiles of the route, different in every save and fixed for that save, as in Gen 3: fishing there with any rod, half the bites are a Feebas (Lv 20-26), the others come from the tables above.
+
 ## Route 120
 
 **Grass and cave floor**
