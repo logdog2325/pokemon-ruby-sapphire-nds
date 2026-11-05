@@ -82,19 +82,38 @@ The S.S. Ticket lets you board the S.S. Tidal at Slateport's and Lilycove's harb
 
 ### Southern Island
 
-Walk to the far end of the island and read the stone. Latios or Latias (the one that is not roaming) flies down and battles you. If you run away, it is there again on your next visit. If you knock it out, it flies away and comes back after your next Hall of Fame. Once caught, it is gone. You lose: you black out, and it waits for your next visit.
+From the boat, walk into the middle of the island and on to the stone at its far end. Stand in front of it and read it. Latios or Latias (the one that is not roaming) flies down and battles you. If you run away, it is there again on your next visit. If you knock it out, it flies away and comes back after your next Hall of Fame. Once caught, it is gone. You lose: you black out, and it waits for your next visit.
 
 ### Faraway Island
 
-When you go into the grassy middle of the island, Mew sees you and runs into the tall grass. It wanders there; talk to it to battle it.
+When you go into the grassy middle of the island, Mew sees you and runs a few steps into the tall grass. Unlike Gen 3, it doesn't hide in the grass or move away as you walk: it stays in sight and wanders about a small patch of the tall grass on its own. Walk up next to it and talk to it to battle it. If it moves off, wait for it to stop near you.
 
 ### Birth Island
 
-Talk to the triangle: it jumps to another spot. Walk to it and talk to it again, in no more steps than the shortest way (4, 8, 8, 8, 4, 4, 4, 6, 3 and 3 steps for its 10 moves). With too many steps it goes back to where it started. The 10th time you reach it in time, it breaks and Deoxys appears. Leaving the island resets the puzzle.
+The triangle stands in the middle of the island top (in this game it looks like a white stone ball). Walk up from the dock and talk to it from below: it jumps to another spot. Each time it jumps, walk the shortest way to the side of it given here and talk to it again. Every step counts; turning on the spot does not.
+
+| Jump | Talk to it from | Steps allowed |
+|---|---|---|
+| 1 | above | 4 |
+| 2 | below | 8 |
+| 3 | above | 8 |
+| 4 | right | 8 |
+| 5 | left | 4 |
+| 6 | above | 4 |
+| 7 | right | 4 |
+| 8 | left | 6 |
+| 9 | above | 3 |
+| 10 | below | 3 |
+
+The 10th time you talk to it after a jump, it breaks and Deoxys appears. One step too many and it goes back to the middle: talk to it there from below and start again from jump 1. Leaving the island resets the puzzle.
+
+Up to v2.0 the triangle always went back to the middle after its first jump, however you walked (a bug). The next update fixes it.
 
 ### Navel Rock
 
-Inside, the way forks: up to the summit, where Ho-Oh comes down when you walk up to it, and the long way down to the bottom, where Lugia waits.
+From the boat, go into the rock and on through the caves to the long tunnel, and walk to its far end. There the way forks:
+- **Up:** the ladder on the left climbs through 4 small rooms to the summit. Walk up the narrow path: Ho-Oh flies down and battles you.
+- **Down:** the ladder on the right goes down through 11 small rooms to the bottom, where Lugia waits. Talk to it to battle it.
 
 ### If you run, lose or knock one out (Mew, Deoxys, Lugia, Ho-Oh)
 
@@ -136,23 +155,31 @@ Not tied to the Hall of Fame: the island shows on Route 130 (between Route 129 a
 
 ### Steven's Cave
 
-After the Hall of Fame the rock in the first room of Meteor Falls is gone, and behind it is Steven's cave. Steven battles you (Lv 84-87; his team is on the [trainers page](trainers-emerald.md#steven)). Beat him once; after that he only talks. If you lose, he battles you again next time.
+After the Hall of Fame the rock in the first room of Meteor Falls (the room you come into from Route 114) is gone, and behind it is Steven's cave. It is in the top-left corner of that room, which you can only reach by a ladder up from the floor below:
+1. In the first room, Surf to the waterfall and climb it (Waterfall) to the room above.
+2. In that room, take a ladder down to the floor below (Meteor Falls B1F).
+3. There, make your way to the ladder up in its west part (Surf where you need to). It comes up in the corner of the first room, next to the cave.
+
+Steven battles you (Lv 84-87; his team is on the [trainers page](trainers-emerald.md#steven)). Beat him once; after that he only talks. If you lose, he battles you again next time.
 
 ### Terra Cave and Marine Cave
 
-After the Hall of Fame, talk to the scientist on the Weather Institute's 2F (Route 119). He reports a drought or heavy rain somewhere, a place picked at random each time you come up to his floor:
-- **Drought:** a cave entrance opens in a rock wall on Routes 114-116 and 118. It is Terra Cave, with Groudon (Lv 78) at its end.
-- **Heavy rain:** rough water on Routes 105, 125, 127 and 129. Dive there to reach Marine Cave, with Kyogre (Lv 78) at its end.
-- The weather ends after 1,000 steps; ask the scientist again for a new place.
+1. After the Hall of Fame, talk to the scientist on the Weather Institute's 2F (Route 119). (If you never took his Castform, he gives you that first: talk to him again.) He reports a drought or heavy rain on one route, picked at random each time you come up to his floor. Asking him again on the same visit gives the same route.
+2. Go to that route (each route has two places where it can happen: look along the whole route):
+   - **Drought** (Routes 114-116 and 118): the sun is harsh and a new cave mouth has opened in a rock wall. Walk in: it is Terra Cave, with Groudon (Lv 78) at its end.
+   - **Heavy rain** (Routes 105, 125, 127 and 129): look for a patch of rough water. Dive there ([field moves](tms-and-hms.md#field-moves-without-hms)), swim into the cave opening on the sea floor, and press A to surface inside. Surf across the pool to the shore and go on: it is Marine Cave, with Kyogre (Lv 78) at its end.
+3. At the end of the cave, walk up toward it from below: it comes to you and battles you.
+
+- The weather lasts 1,000 steps from the moment the scientist spoke: go straight there. If the steps run out while you are inside the cave, you can still finish it. After that, ask the scientist for a new place.
 - Caught or knocked out: it is gone, and its weather ends. Ran away: it is back on your next visit. Once both are caught or knocked out, the scientist has no more reports.
 
 ### Desert Underpass
 
-After the Hall of Fame the Fossil Maniac's tunnel on Route 114 opens further. At the far end of the Desert Underpass lies the fossil you didn't take at the Mirage Tower (the Root Fossil or the Claw Fossil). Wild Pokémon there: Ditto, Whismur and Loudred ([wild Pokémon](wild-pokemon-emerald.md#desert-underpass)).
+Go into the Fossil Maniac's house on Route 114 and on into his tunnel. After the Hall of Fame he stands aside and the tunnel goes on into the Desert Underpass. At its far end lies the fossil you didn't take at the Mirage Tower (the Root Fossil or the Claw Fossil); it is only there once you have taken one of the two. Wild Pokémon there: Ditto, Whismur and Loudred ([wild Pokémon](wild-pokemon-emerald.md#desert-underpass)).
 
 ### Safari Zone
 
-After the Hall of Fame the workers leave and two new areas open on the Safari Zone's east side, each with its own wild Pokémon:
+After the Hall of Fame the two workers at the east edge of the Safari Zone's first area (the one you come into) are gone. Walk east past where they stood into the new south-east area; north of it is the new north-east area. Each has its own wild Pokémon:
 - [Safari Zone Northeast](wild-pokemon-emerald.md#safari-zone-northeast): grass Aipom, Teddiursa, Sunkern, Ledyba, Hoothoot, Pineco, Houndour and Miltank; Rock Smash Shuckle.
 - [Safari Zone Southeast](wild-pokemon-emerald.md#safari-zone-southeast): grass Sunkern, Mareep, Aipom, Spinarak, Hoothoot, Snubbull, Stantler and Gligar; surfing Wooper, Marill and Quagsire; fishing Magikarp, Goldeen, Remoraid and Octillery.
 
@@ -173,7 +200,30 @@ The legendaries you meet in the rest of the game:
 | Groudon | Terra Cave | after the Hall of Fame | 78 | ran away: back next visit |
 | Kyogre | Marine Cave | after the Hall of Fame | 78 | ran away: back next visit |
 
-The three chambers open together: in the Sealed Chamber under the sea of Route 134 (Dive), read the braille on the back wall with Relicanth first and Wailord last in your party. Each chamber then has its own braille puzzle.
+### The Sealed Chamber
+
+The three Regi chambers open together, from the Sealed Chamber under the sea of Route 134. Braille in this game is shown as the plain text it spells.
+
+1. On Route 134, Surf to the patch of dark deep water (the current stops there) and Dive ([field moves](tms-and-hms.md#field-moves-without-hms)).
+2. Underwater, swim south into the opening below you, then follow the trench down to its far end. Stand just below the braille there ("Go up here.") and press A to surface. (In Gen 3 it was B. Surfacing anywhere else brings you back up on Route 134.)
+3. You come up in the Sealed Chamber. Walk to the braille in the middle of the top wall ("Dig here.") and step onto the floor right in front of it with a Pokémon in your party that knows Dig: it digs through the wall for you. It must be a Pokémon that knows Dig (the TM in your Bag is not enough; no badge is needed).
+4. Go through. Put Wailord first and Relicanth last in your party (the last Pokémon you carry, however many you have), then read the braille on the far wall ("First comes Wailord. Last comes Relicanth."). The room shakes: the three chambers are open.
+
+### The three Regi chambers
+
+Each is a small cave with braille on the back wall of its first room. Stand in front of the braille and read it, then do what it says: the wall behind it opens. Go through and talk to the Regi. When a field move is needed, you don't choose it from the menu: step onto the right spot and it is used for you, as long as you could use it there ([field moves](tms-and-hms.md#field-moves-without-hms): the badge, then a Pokémon that knows the move or its TM or HM in your Bag).
+
+- **Desert Ruins (Route 111), Regirock.** The braille: "Left, left, down, down. Then, use Rock Smash." Rock Smash is used when you step onto the spot 2 steps left and 2 steps down from the one in front of the braille. (Dynamo Badge; TM94 Rock Smash.)
+- **Island Cave (Route 105), Regice.** The braille: "Stay close to the wall. Run around one lap." Read it from the spot right in front of it. Then walk once round the whole room on the tiles right next to the wall (36 tiles: into every corner and past the exit), either way round, and come back to the spot in front of the braille: the wall opens. One step onto the open floor in the middle spoils it: read the braille again and start over.
+- **Ancient Tomb (Route 120), Registeel.** The braille: "Those who inherit our will, shine in the middle." Flash is used when you step onto the middle of the room, 4 steps straight down from the spot in front of the braille. You cross it when you walk straight up from the entrance. (Knuckle Badge; TM70 Flash.)
+
+### Rayquaza at the Sky Pillar
+
+During the story the Sky Pillar's floors are whole. Once Rayquaza has stopped the fight in Sootopolis, it goes back to the top of the Sky Pillar (Route 131), and the floors are cracked:
+- **Cracked floors (2F and 4F):** walking onto a crack drops you to the floor below. Ride your Bicycle over them. Here any riding crosses them, slow or fast (in Gen 3 it took the Mach Bike at full speed).
+- **4F:** the stairs up to 5F are in the top-left corner, and you can't ride there. Ride round to the narrow passage that runs just below that corner, get off the Bicycle, and walk onto one of the two cracks in the middle of the passage. You drop into a closed-off part of 3F; its stairs take you up into the corner, by the stairs to 5F.
+
+At the top, talk to Rayquaza (Lv 78).
 
 ## Battles after the Hall of Fame
 

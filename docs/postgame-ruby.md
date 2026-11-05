@@ -74,19 +74,38 @@ The S.S. Ticket lets you board the S.S. Tidal at Slateport's and Lilycove's harb
 
 ### Southern Island
 
-Walk to the far end of the island and read the stone. Latias flies down and battles you. **One chance only:** whatever happens in the battle, it doesn't come back and the ferry doesn't sail there again. Save before you read the stone.
+From the boat, walk into the middle of the island and on to the stone at its far end. Stand in front of it and read it. Latias flies down and battles you. **One chance only:** whatever happens in the battle, it doesn't come back and the ferry doesn't sail there again. Save before you read the stone.
 
 ### Faraway Island
 
-When you go into the grassy middle of the island, Mew sees you and runs into the tall grass. It wanders there; talk to it to battle it.
+When you go into the grassy middle of the island, Mew sees you and runs a few steps into the tall grass. Unlike Gen 3, it doesn't hide in the grass or move away as you walk: it stays in sight and wanders about a small patch of the tall grass on its own. Walk up next to it and talk to it to battle it. If it moves off, wait for it to stop near you.
 
 ### Birth Island
 
-Talk to the triangle: it jumps to another spot. Walk to it and talk to it again, in no more steps than the shortest way (4, 8, 8, 8, 4, 4, 4, 6, 3 and 3 steps for its 10 moves). With too many steps it goes back to where it started. The 10th time you reach it in time, it breaks and Deoxys appears. Leaving the island resets the puzzle.
+The triangle stands in the middle of the island top (in this game it looks like a white stone ball). Walk up from the dock and talk to it from below: it jumps to another spot. Each time it jumps, walk the shortest way to the side of it given here and talk to it again. Every step counts; turning on the spot does not.
+
+| Jump | Talk to it from | Steps allowed |
+|---|---|---|
+| 1 | above | 4 |
+| 2 | below | 8 |
+| 3 | above | 8 |
+| 4 | right | 8 |
+| 5 | left | 4 |
+| 6 | above | 4 |
+| 7 | right | 4 |
+| 8 | left | 6 |
+| 9 | above | 3 |
+| 10 | below | 3 |
+
+The 10th time you talk to it after a jump, it breaks and Deoxys appears. One step too many and it goes back to the middle: talk to it there from below and start again from jump 1. Leaving the island resets the puzzle.
+
+Up to v19.0 the triangle always went back to the middle after its first jump, however you walked (a bug). The next update fixes it.
 
 ### Navel Rock
 
-Inside, the way forks: up to the summit, where Ho-Oh comes down when you walk up to it, and the long way down to the bottom, where Lugia waits.
+From the boat, go into the rock and on through the caves to the long tunnel, and walk to its far end. There the way forks:
+- **Up:** the ladder on the left climbs through 4 small rooms to the summit. Walk up the narrow path: Ho-Oh flies down and battles you.
+- **Down:** the ladder on the right goes down through 11 small rooms to the bottom, where Lugia waits. Talk to it to battle it.
 
 ### If you run, lose or knock one out (Mew, Deoxys, Lugia, Ho-Oh)
 
@@ -127,7 +146,11 @@ Not tied to the Hall of Fame: the island shows on Route 130 (between Route 129 a
 
 ### Sky Pillar
 
-After the Hall of Fame the Sky Pillar's island appears on Route 131. At the top waits Rayquaza (Lv 78). **One chance only:** whatever happens in the battle, it doesn't come back.
+After the Hall of Fame a rocky islet appears on Route 131 (west of Pacifidlog Town). Surf to it and go into the cave; at its far end you come out by the tower's door. Inside, take the stairs up floor by floor:
+- **Cracked floors (2F and 4F):** walking onto a crack drops you to the floor below. Ride your Bicycle over them. Here any riding crosses them, slow or fast (in Gen 3 it took the Mach Bike at full speed).
+- **4F:** the stairs up to 5F are in the top-left corner, and you can't ride there. Ride round to the narrow passage that runs just below that corner, get off the Bicycle, and walk onto one of the two cracks in the middle of the passage. You drop into a closed-off part of 3F; its stairs take you up into the corner, by the stairs to 5F.
+
+At the top waits Rayquaza (Lv 78): talk to it. **One chance only:** whatever happens in the battle, it doesn't come back. Save before you talk to it.
 
 ## Other legendaries
 
@@ -141,7 +164,22 @@ The legendaries you meet in the rest of the game:
 | Registeel | Ancient Tomb (Route 120) | after the Sealed Chamber | 44 | one battle |
 | Rayquaza | Sky Pillar, top (Route 131) | after the Hall of Fame | 78 | one battle |
 
-The three chambers open together: in the Sealed Chamber under the sea of Route 134 (Dive), read the braille on the back wall with Relicanth first and Wailord last in your party. Each chamber then has its own braille puzzle.
+### The Sealed Chamber
+
+The three Regi chambers open together, from the Sealed Chamber under the sea of Route 134. Braille in this game is shown as the plain text it spells.
+
+1. On Route 134, Surf to the patch of dark deep water (the current stops there) and Dive ([field moves](tms-and-hms.md#field-moves-without-hms)).
+2. Underwater, swim south into the opening below you, then follow the trench down to its far end. Stand just below the braille there ("Go up here.") and press A to surface. (In Gen 3 it was B. Surfacing anywhere else brings you back up on Route 134.)
+3. You come up in the Sealed Chamber. Walk to the braille in the middle of the top wall ("Dig here.") and step onto the floor right in front of it with a Pokémon in your party that knows Dig: it digs through the wall for you. It must be a Pokémon that knows Dig (the TM in your Bag is not enough; no badge is needed).
+4. Go through. Put Relicanth first and Wailord last in your party (the last Pokémon you carry, however many you have), then read the braille on the far wall ("First comes Relicanth. Last comes Wailord."). The room shakes: the three chambers are open.
+
+### The three Regi chambers
+
+Each is a small cave with braille on the back wall of its first room. Stand in front of the braille and read it, then do what it says: the wall behind it opens. Go through and talk to the Regi. When a field move is needed, you don't choose it from the menu: step onto the right spot and it is used for you, as long as you could use it there ([field moves](tms-and-hms.md#field-moves-without-hms): the badge, then a Pokémon that knows the move or its TM or HM in your Bag).
+
+- **Desert Ruins (Route 111), Regirock.** The braille: "Right, right, down, down. Then, use Strength." Strength is used when you step onto the spot 2 steps right and 2 steps down from the one in front of the braille. (Heat Badge; HM04 Strength.)
+- **Island Cave (Route 105), Regice.** The braille: "Stop and wait. Wait for time to pass twice." Read it and then just wait: the message stays up for about 2 minutes, then the wall opens. Here pressing a button doesn't spoil the wait (in Gen 3 it did).
+- **Ancient Tomb (Route 120), Registeel.** The braille: "With new time, hope and love, aim to the sky in the middle." Fly is used when you step onto the middle of the room, 4 steps straight down from the spot in front of the braille. You cross it when you walk straight up from the entrance. (Feather Badge; HM02 Fly.)
 
 ## Battles after the Hall of Fame
 
@@ -156,7 +194,7 @@ The three chambers open together: in the Sealed Chamber under the sea of Route 1
 - A challenge is seven battles in a row; your Pokémon are healed between battles. You can save and quit between battles and go on later.
 - Prize for each challenge won: one of HP Up, Protein, Iron, Calcium, Carbos or Zinc (at random) for your first 6 challenges in a row, then one of BrightPowder, White Herb, Quick Claw, Leftovers, Mental Herb, King's Rock, Focus Band, Scope Lens or Choice Band.
 - When a challenge ends with more than 55 wins in a row, the three Pokémon get the Winning Ribbon (Lv. 50) or the Victory Ribbon (Lv. 100).
-- A man in the lobby awards the Silver Shield at a best streak of 50 and the Gold Shield at 100 (a record only: this game has no decorations).
+- A man in the lobby awards the Silver Shield at a best streak of 50 and the Gold Shield at 100: decorations for your Secret Base.
 
 ### Pokémon World Tournament (PWT)
 
