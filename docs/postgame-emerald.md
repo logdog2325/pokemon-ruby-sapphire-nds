@@ -21,6 +21,8 @@ What there is to do once you have entered the Hall of Fame: the event islands an
 | [Jirachi (Lv 5)](#gifts) | Mossdeep Space Center 1F | after the Hall of Fame |
 | [Celebi (Lv 10)](#gifts) | Petalburg Woods | with the National Pokédex |
 | [Enigma Berry](#gifts) | Dad, Petalburg City Gym | after the Hall of Fame |
+| [The two starters you didn't choose (Lv 5)](#the-two-starters-you-didnt-choose) | Prof. Birch's Lab, Littleroot | after the Hall of Fame |
+| [The other versions' wild Pokémon](#completing-the-pokédex) | routes and caves | after the Hall of Fame |
 | [Johto starters](#gifts) | Prof. Birch's Lab | 200 Hoenn Pokédex Pokémon caught |
 | [Diploma](#gifts) | Cove Lily Motel 2F, Lilycove City | all Hoenn Pokédex Pokémon caught |
 | [Altering Cave](#altering-cave) | Route 103 | after the Hall of Fame |
@@ -107,7 +109,7 @@ The triangle stands in the middle of the island top (in this game it looks like 
 
 The 10th time you talk to it after a jump, it breaks and Deoxys appears. One step too many and it goes back to the middle: talk to it there from below and start again from jump 1. Leaving the island resets the puzzle.
 
-Up to v2.0 the triangle always went back to the middle after its first jump, however you walked (a bug). The next update fixes it.
+Up to v2.0 the triangle always went back to the middle after its first jump, however you walked (a bug, fixed in v2.1).
 
 ### Navel Rock
 
@@ -130,6 +132,40 @@ From the boat, go into the rock and on through the caves to the long tunnel, and
 - **Enigma Berry**: Dad gives you one in Petalburg City Gym after the Hall of Fame (once; not while you already carry one).
 - **Diploma**: catch all 200 Pokémon of the Hoenn Pokédex (Jirachi and Deoxys aren't needed) and talk to the game designer on the 2F of the Cove Lily Motel in Lilycove City. He and the rest of the game's staff are there after the Hall of Fame.
 - **Cyndaquil, Totodile and Chikorita** (Lv 5): once you have caught 200 of the 202 Pokémon of the Hoenn Pokédex (after the National Pokédex), go to Prof. Birch's Lab: choose one of the three. You need room in your party.
+
+## Completing the Pokédex
+
+After the Hall of Fame the whole Hoenn Pokédex can be completed in Pokémon Emerald NDS on its own, without trading: the Pokémon only the other versions had, and the ones you could only have one of, are here too.
+
+### The other versions' Pokémon
+
+Some routes and caves get new wild tables after the Hall of Fame: the other versions' Pokémon take some of their slots. The [wild Pokémon page](wild-pokemon-emerald.md) shows both tables of these areas (the second one is marked "after the Champion"). The Pokédex's AREA page and the [DexNav](dexnav.md) show the new Pokémon there once you are the Champion.
+
+| Pokémon | Where |
+|---|---|
+| Surskit | [Route 102](wild-pokemon-emerald.md#route-102) (surfing), [Route 111](wild-pokemon-emerald.md#route-111) (surfing), [Route 114](wild-pokemon-emerald.md#route-114) (surfing), [Route 117](wild-pokemon-emerald.md#route-117) (surfing), [Route 120](wild-pokemon-emerald.md#route-120) (also surfing) |
+| Meditite | [Mt. Pyre Exterior](wild-pokemon-emerald.md#mt-pyre-exterior) |
+| Medicham | [Victory Road B1F](wild-pokemon-emerald.md#victory-road-b1f), [Victory Road B2F](wild-pokemon-emerald.md#victory-road-b2f) |
+| Roselia | [Route 117](wild-pokemon-emerald.md#route-117) |
+| Zangoose | [Route 114](wild-pokemon-emerald.md#route-114) |
+| Lunatone | [Meteor Falls 1F 1R](wild-pokemon-emerald.md#meteor-falls-1f-1r) (also surfing), [Meteor Falls 1F 2R](wild-pokemon-emerald.md#meteor-falls-1f-2r) (also surfing), [Meteor Falls B1F 1R](wild-pokemon-emerald.md#meteor-falls-b1f-1r) (also surfing), [Meteor Falls B1F 2R](wild-pokemon-emerald.md#meteor-falls-b1f-2r) (also surfing) |
+
+### The two starters you didn't choose
+
+Talk to Prof. Birch in his Lab after he has given you the National Pokédex. He gives you the two Pokémon from his Bag that you didn't pick on Route 101, Lv 5, one after the other. Each one joins your party, or goes to your PC when your party is full. If your Boxes are full too, he keeps it until you have made room. This comes before the Johto starters, which he still gives as before ([gifts](#gifts)).
+
+### Huntail and Gorebyss
+
+Clamperl evolves into Huntail when you use a DeepSeaTooth from the Bag, and into Gorebyss with a DeepSeaScale ([trade evolutions](evolutions.md)). Capt. Stern at Slateport City's harbor gives you one of the two for the Scanner. Wild Pokémon hold the other one 5% of the time: the DeepSeaTooth Carvanha and Sharpedo (fishing) and the DeepSeaScale Chinchou and Relicanth (underwater). Catch one that holds it. The DexNav can't help with these: it doesn't list fished Pokémon, and it searches the water only while you surf, not while you dive.
+
+### Legendaries that come back
+
+A legendary Pokémon that you ran from, lost to or knocked out comes back after your next Hall of Fame. Once caught, it is gone for good. That is how the event-island legendaries, Celebi and the roaming legendaries already worked, and now these do too:
+- **Regirock, Regice and Registeel** in their chambers ([the Sealed Chamber](#the-sealed-chamber)).
+- **Rayquaza** at the top of the Sky Pillar: if you run away or lose, it is there again on your next visit; if you knock it out, it is back after your next Hall of Fame.
+- **Groudon** and **Kyogre**: if you knock one out, the Weather Institute reports its weather again after your next Hall of Fame, and its cave holds it again ([Terra Cave and Marine Cave](#terra-cave-and-marine-cave)).
+
+"Caught" means that your Pokédex shows it as caught (one you got in a trade counts too). This works on saves from older versions as well: a legendary you lost there comes back after your next Hall of Fame.
 
 ## New places
 
@@ -171,7 +207,7 @@ Steven battles you (Lv 84-87; his team is on the [trainers page](trainers-emeral
 3. At the end of the cave, walk up toward it from below: it comes to you and battles you.
 
 - The weather lasts 1,000 steps from the moment the scientist spoke: go straight there. If the steps run out while you are inside the cave, you can still finish it. After that, ask the scientist for a new place.
-- Caught or knocked out: it is gone, and its weather ends. Ran away: it is back on your next visit. Once both are caught or knocked out, the scientist has no more reports.
+- Caught: it is gone for good, and its weather ends. Knocked out: its weather ends, and after your next Hall of Fame the scientist reports it again. Ran away or lost: it is back on your next visit. Once neither is left (caught, or knocked out until your next Hall of Fame), the scientist has no more reports.
 
 ### Desert Underpass
 
@@ -179,7 +215,7 @@ Go into the Fossil Maniac's house on Route 114 and on into his tunnel. After the
 
 ### Safari Zone
 
-After the Hall of Fame the two workers at the east edge of the Safari Zone's first area (the one you come into) are gone. Walk east past where they stood into the new south-east area; north of it is the new north-east area. Each has its own wild Pokémon:
+After the Hall of Fame the two workers at the east edge of the Safari Zone's first area (the one you come into) are gone. Walk east past where they stood into the new south-east area; north of it is the new north-east area. They are part of the Safari game ([Safari Zone rules](wild-pokemon-emerald.md#safari-zone-rules)). Each has its own wild Pokémon:
 - [Safari Zone Northeast](wild-pokemon-emerald.md#safari-zone-northeast): grass Aipom, Teddiursa, Sunkern, Ledyba, Hoothoot, Pineco, Houndour and Miltank; Rock Smash Shuckle.
 - [Safari Zone Southeast](wild-pokemon-emerald.md#safari-zone-southeast): grass Sunkern, Mareep, Aipom, Spinarak, Hoothoot, Snubbull, Stantler and Gligar; surfing Wooper, Marill and Quagsire; fishing Magikarp, Goldeen, Remoraid and Octillery.
 
@@ -193,12 +229,12 @@ The legendaries you meet in the rest of the game:
 
 | Pokémon | Where | When | Level | Chances |
 |---|---|---|---|---|
-| Regirock | Desert Ruins (Route 111) | after the Sealed Chamber | 44 | one battle |
-| Regice | Island Cave (Route 105) | after the Sealed Chamber | 44 | one battle |
-| Registeel | Ancient Tomb (Route 120) | after the Sealed Chamber | 44 | one battle |
-| Rayquaza | Sky Pillar, top (Route 131) | after the Sootopolis events | 78 | ran away: back next visit; caught or knocked out: gone |
-| Groudon | Terra Cave | after the Hall of Fame | 78 | ran away: back next visit |
-| Kyogre | Marine Cave | after the Hall of Fame | 78 | ran away: back next visit |
+| Regirock | Desert Ruins (Route 111) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Regice | Island Cave (Route 105) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Registeel | Ancient Tomb (Route 120) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Rayquaza | Sky Pillar, top (Route 131) | after the Sootopolis events | 78 | ran away: back next visit; knocked out: back after your next Hall of Fame |
+| Groudon | Terra Cave | after the Hall of Fame | 78 | ran away: back next visit; knocked out: back after your next Hall of Fame |
+| Kyogre | Marine Cave | after the Hall of Fame | 78 | ran away: back next visit; knocked out: back after your next Hall of Fame |
 
 ### The Sealed Chamber
 
@@ -235,7 +271,7 @@ At the top, talk to Rayquaza (Lv 78).
 
 ## Rematches
 
-- **Trainers on the routes:** once you have 5 badges, talk to a trainer from the list below whom you have beaten. Answer YES for a rematch. Each trainer battles once a day, with a team that depends on your badges. Pairs fight a double battle (you need two Pokémon that can battle).
+- **Trainers on the routes:** once you have 5 badges, talk to a trainer from the list below whom you have beaten. Answer YES for a rematch. Each trainer battles once a day, with a team that depends on your badges; the day you first beat a trainer counts as its battle that day, so its first rematch comes the next day. Pairs fight a double battle (you need two Pokémon that can battle).
 - **Gym Leaders:** after the Hall of Fame, talk to a Leader in their Gym, once a day. Each rematch is a double battle, with a stronger team each time you win (four teams; the last one repeats). Until you have done Wattson's job in New Mauville (he gives you TM24 Thunderbolt), each Leader offers only the first rematch, and Wattson none.
 - **Wally:** after the Hall of Fame he waits at the exit of Victory Road 1F. After your first battle there, he rematches you once a day: 3 stronger teams in turn (the last one repeats).
 

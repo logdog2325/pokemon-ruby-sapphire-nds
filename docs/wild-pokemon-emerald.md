@@ -9,11 +9,13 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - Each rod fishes its own table, as in Gen 3: the Old Rod, the Good Rod and the Super Rod.
 - Rock Smash: breaking a rock sometimes starts a battle, as in Gen 3.
 - Percentages add up the slots of the same Pokémon.
+- **After the Champion** (from your first Hall of Fame on), some areas use a second table, marked "after the Champion": the other versions' Pokémon take some of their slots, so you can catch them without trading ([completing the Pokédex](postgame-emerald.md#completing-the-pokédex)).
+- **Safari Zone:** its areas are a game with its own rules ([Safari Zone rules](#safari-zone-rules)).
 
 ## Areas
 
 - [Route 101](#route-101)
-- [Route 102](#route-102)
+- [Route 102](#route-102) (changes after the Champion)
 - [Route 103](#route-103)
 - [Route 104](#route-104)
 - [Route 105](#route-105)
@@ -22,16 +24,16 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Route 108](#route-108)
 - [Route 109](#route-109)
 - [Route 110](#route-110)
-- [Route 111](#route-111)
+- [Route 111](#route-111) (changes after the Champion)
 - [Route 112](#route-112)
 - [Route 113](#route-113)
-- [Route 114](#route-114)
+- [Route 114](#route-114) (changes after the Champion)
 - [Route 115](#route-115)
 - [Route 116](#route-116)
-- [Route 117](#route-117)
+- [Route 117](#route-117) (changes after the Champion)
 - [Route 118](#route-118)
 - [Route 119](#route-119)
-- [Route 120](#route-120)
+- [Route 120](#route-120) (changes after the Champion)
 - [Route 121](#route-121)
 - [Route 122](#route-122)
 - [Route 123](#route-123)
@@ -65,16 +67,16 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Jagged Pass](#jagged-pass)
 - [Lilycove City](#lilycove-city)
 - [Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F](#magma-hideout-1f--magma-hideout-2f-1r--magma-hideout-2f-2r--magma-hideout-2f-3r--magma-hideout-3f-1r--magma-hideout-3f-2r--magma-hideout-3f-3r--magma-hideout-4f)
-- [Meteor Falls 1F 1R](#meteor-falls-1f-1r)
-- [Meteor Falls 1F 2R](#meteor-falls-1f-2r)
-- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r)
-- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r)
+- [Meteor Falls 1F 1R](#meteor-falls-1f-1r) (changes after the Champion)
+- [Meteor Falls 1F 2R](#meteor-falls-1f-2r) (changes after the Champion)
+- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r) (changes after the Champion)
+- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r) (changes after the Champion)
 - [Meteor Falls Steven's Cave](#meteor-falls-stevens-cave)
 - [Mirage Tower 1F / Mirage Tower 2F / Mirage Tower 3F / Mirage Tower 4F](#mirage-tower-1f--mirage-tower-2f--mirage-tower-3f--mirage-tower-4f)
 - [Mossdeep City](#mossdeep-city)
 - [Mt. Pyre 1F / Mt. Pyre 2F / Mt. Pyre 3F](#mt-pyre-1f--mt-pyre-2f--mt-pyre-3f)
 - [Mt. Pyre 4F / Mt. Pyre 5F / Mt. Pyre 6F](#mt-pyre-4f--mt-pyre-5f--mt-pyre-6f)
-- [Mt. Pyre Exterior](#mt-pyre-exterior)
+- [Mt. Pyre Exterior](#mt-pyre-exterior) (changes after the Champion)
 - [Mt. Pyre Summit](#mt-pyre-summit)
 - [New Mauville Entrance](#new-mauville-entrance)
 - [New Mauville Inside](#new-mauville-inside)
@@ -103,8 +105,8 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Underwater 1](#underwater-1)
 - [Underwater 2](#underwater-2)
 - [Victory Road 1F](#victory-road-1f)
-- [Victory Road B1F](#victory-road-b1f)
-- [Victory Road B2F](#victory-road-b2f)
+- [Victory Road B1F](#victory-road-b1f) (changes after the Champion)
+- [Victory Road B2F](#victory-road-b2f) (changes after the Champion)
 
 ## Route 101
 
@@ -135,6 +137,15 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 |---|---|---|
 | Marill | 5-38 | 99% |
 | Goldeen | 20-32 | 1% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 99% |
+| Surskit | 20-32 | 1% |
+
+New after the Champion: Surskit.
 
 **Old Rod**
 
@@ -450,6 +461,15 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Marill | 5-38 | 99% |
 | Goldeen | 20-32 | 1% |
 
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 99% |
+| Surskit | 20-32 | 1% |
+
+New after the Champion: Surskit.
+
 **Old Rod**
 
 | Pokémon | Level | Chance |
@@ -508,12 +528,34 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Seviper | 15-17 | 9% |
 | Nuzleaf | 15 | 1% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Swablu | 15-17 | 40% |
+| Lotad | 15-16 | 30% |
+| Zangoose | 16 | 10% |
+| Lombre | 16-18 | 10% |
+| Seviper | 15-17 | 9% |
+| Nuzleaf | 15 | 1% |
+
+New after the Champion: Zangoose.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Marill | 5-38 | 99% |
 | Goldeen | 20-32 | 1% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 99% |
+| Surskit | 20-32 | 1% |
+
+New after the Champion: Surskit.
 
 **Old Rod**
 
@@ -609,12 +651,35 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Volbeat | 13 | 1% |
 | Seedot | 13 | 1% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 13-14 | 30% |
+| Roselia | 13-14 | 30% |
+| Illumise | 13-14 | 18% |
+| Marill | 13 | 10% |
+| Oddish | 13 | 10% |
+| Volbeat | 13 | 1% |
+| Seedot | 13 | 1% |
+
+New after the Champion: Roselia.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Marill | 5-38 | 99% |
 | Goldeen | 20-32 | 1% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 99% |
+| Surskit | 20-32 | 1% |
+
+New after the Champion: Surskit.
 
 **Old Rod**
 
@@ -737,12 +802,35 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Kecleon | 26 | 1% |
 | Seedot | 26 | 1% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Mightyena | 26-28 | 30% |
+| Oddish | 26-28 | 25% |
+| Poochyena | 26 | 20% |
+| Marill | 26-28 | 15% |
+| Absol | 26-28 | 8% |
+| Kecleon | 26 | 1% |
+| Surskit | 26 | 1% |
+
+New after the Champion: Surskit.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Marill | 5-38 | 99% |
 | Goldeen | 20-32 | 1% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 99% |
+| Surskit | 20-32 | 1% |
+
+New after the Champion: Surskit.
 
 **Old Rod**
 
@@ -1541,12 +1629,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zubat | 14-20 | 80% |
 | Solrock | 14-18 | 20% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 14-20 | 80% |
+| Solrock | 16 | 10% |
+| Lunatone | 14-18 | 10% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Zubat | 5-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 5-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1578,12 +1686,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Golbat | 35-44 | 65% |
 | Solrock | 35-42 | 35% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 65% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1616,12 +1744,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Golbat | 35-44 | 65% |
 | Solrock | 35-42 | 35% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 65% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1655,12 +1803,33 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Bagon | 26-38 | 25% |
 | Solrock | 38-42 | 25% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 50% |
+| Bagon | 26-38 | 25% |
+| Solrock | 38-42 | 15% |
+| Lunatone | 40 | 10% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1760,6 +1929,17 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Shuppet | 28-31 | 60% |
 | Vulpix | 26-31 | 30% |
 | Wingull | 27-29 | 10% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Shuppet | 28-29 | 30% |
+| Meditite | 28-31 | 30% |
+| Vulpix | 26-31 | 30% |
+| Wingull | 27-29 | 10% |
+
+New after the Champion: Meditite.
 
 ## Mt. Pyre Summit
 
@@ -2373,6 +2553,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Lairon | 44-46 | 25% |
 | Mawile | 41 | 5% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 41-46 | 35% |
+| Hariyama | 41-46 | 35% |
+| Lairon | 44-46 | 15% |
+| Medicham | 44 | 10% |
+| Mawile | 41 | 5% |
+
+New after the Champion: Medicham.
+
 **Rock Smash**
 
 | Pokémon | Level | Chance |
@@ -2390,6 +2582,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Sableye | 44-48 | 35% |
 | Lairon | 44-48 | 25% |
 | Mawile | 46-48 | 5% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 44-48 | 35% |
+| Sableye | 44-48 | 35% |
+| Lairon | 44-48 | 15% |
+| Medicham | 44 | 10% |
+| Mawile | 46-48 | 5% |
+
+New after the Champion: Medicham.
 
 **Surfing**
 
@@ -2418,3 +2622,13 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 |---|---|---|
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
+
+## Safari Zone rules
+
+The Safari Zone, north of Route 121, is a game as in Gen 3:
+
+- **Entering:** the gate on Route 121 charges $500 and gives you 30 Safari Balls. You need the Pokéblock Case, and with a full party a free place in your PC's Boxes (a Pokémon you catch goes there).
+- **The game** lasts 500 steps. It is over when you have walked them ("Ding-dong! Time's up! Your Safari Game is over.") or when your Safari Balls run out, after the battle in which you threw the last one ("You've run out of Safari Balls. Your Safari Game is over."). Then you are back at the gate. The attendant by the door inside lets you leave sooner.
+- **Leftover Safari Balls** are taken back when the game ends. Flying away, Teleport or blacking out ends the game too, and takes the balls.
+- **Battles** are normal battles: your Pokémon fight as anywhere else (there is no bait or rock). Only Safari Balls can be thrown ("Only Safari Balls can be used in the Safari Zone!"), and they can't be used anywhere else ("Safari Balls can only be used in the Safari Zone!"). Each turn, the wild Pokémon runs away 15% of the time. You can always run, as in Gen 3: no ability such as Shadow Tag stops you.
+- The DexNav works here too: a search costs only the steps you walk, and its Pokémon follow the same rules. Emerald's two new areas (after the Hall of Fame) are part of the game.

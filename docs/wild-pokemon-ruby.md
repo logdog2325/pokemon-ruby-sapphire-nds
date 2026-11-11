@@ -9,11 +9,13 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - Each rod fishes its own table, as in Gen 3: the Old Rod, the Good Rod and the Super Rod.
 - Rock Smash: breaking a rock sometimes starts a battle, as in Gen 3.
 - Percentages add up the slots of the same Pokémon.
+- **After the Champion** (from your first Hall of Fame on), some areas use a second table, marked "after the Champion": the other versions' Pokémon take some of their slots, so you can catch them without trading ([completing the Pokédex](postgame-ruby.md#completing-the-pokédex)).
+- **Safari Zone:** its areas are a game with its own rules ([Safari Zone rules](#safari-zone-rules)).
 
 ## Areas
 
 - [Route 101](#route-101)
-- [Route 102](#route-102)
+- [Route 102](#route-102) (changes after the Champion)
 - [Route 103](#route-103)
 - [Route 104](#route-104)
 - [Route 105](#route-105)
@@ -25,7 +27,7 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Route 111](#route-111)
 - [Route 112](#route-112)
 - [Route 113](#route-113)
-- [Route 114](#route-114)
+- [Route 114](#route-114) (changes after the Champion)
 - [Route 115](#route-115)
 - [Route 116](#route-116)
 - [Route 117](#route-117)
@@ -48,24 +50,24 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Route 134](#route-134)
 - [Abandoned Ship Hidden Floor Corridors / Abandoned Ship Rooms B1F](#abandoned-ship-hidden-floor-corridors--abandoned-ship-rooms-b1f)
 - [Altering Cave](#altering-cave)
-- [Cave of Origin 1F](#cave-of-origin-1f)
-- [Cave of Origin B1F](#cave-of-origin-b1f)
-- [Cave of Origin B2F](#cave-of-origin-b2f)
-- [Cave of Origin B3F](#cave-of-origin-b3f)
+- [Cave of Origin 1F](#cave-of-origin-1f) (changes after the Champion)
+- [Cave of Origin B1F](#cave-of-origin-b1f) (changes after the Champion)
+- [Cave of Origin B2F](#cave-of-origin-b2f) (changes after the Champion)
+- [Cave of Origin B3F](#cave-of-origin-b3f) (changes after the Champion)
 - [Cave of Origin Entrance / Seafloor Cavern Room 1 / Seafloor Cavern Room 2 / Seafloor Cavern Room 3 / Seafloor Cavern Room 4 / Seafloor Cavern Room 5 / Seafloor Cavern Room 8](#cave-of-origin-entrance--seafloor-cavern-room-1--seafloor-cavern-room-2--seafloor-cavern-room-3--seafloor-cavern-room-4--seafloor-cavern-room-5--seafloor-cavern-room-8)
 - [Dewford Town](#dewford-town)
 - [Ever Grande City](#ever-grande-city)
 - [Fiery Path](#fiery-path)
 - [Granite Cave 1F](#granite-cave-1f)
-- [Granite Cave B1F](#granite-cave-b1f)
-- [Granite Cave B2F](#granite-cave-b2f)
+- [Granite Cave B1F](#granite-cave-b1f) (changes after the Champion)
+- [Granite Cave B2F](#granite-cave-b2f) (changes after the Champion)
 - [Granite Cave Steven's Room](#granite-cave-stevens-room)
 - [Jagged Pass](#jagged-pass)
 - [Lilycove City](#lilycove-city)
-- [Meteor Falls 1F 1R](#meteor-falls-1f-1r)
-- [Meteor Falls 1F 2R](#meteor-falls-1f-2r)
-- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r)
-- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r)
+- [Meteor Falls 1F 1R](#meteor-falls-1f-1r) (changes after the Champion)
+- [Meteor Falls 1F 2R](#meteor-falls-1f-2r) (changes after the Champion)
+- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r) (changes after the Champion)
+- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r) (changes after the Champion)
 - [Mossdeep City](#mossdeep-city)
 - [Mt. Pyre 1F / Mt. Pyre 2F / Mt. Pyre 3F](#mt-pyre-1f--mt-pyre-2f--mt-pyre-3f)
 - [Mt. Pyre 4F / Mt. Pyre 5F / Mt. Pyre 6F](#mt-pyre-4f--mt-pyre-5f--mt-pyre-6f)
@@ -88,16 +90,16 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - [Shoal Cave Low Tide Inner Room](#shoal-cave-low-tide-inner-room)
 - [Shoal Cave Low Tide Lower Room](#shoal-cave-low-tide-lower-room)
 - [Shoal Cave Low Tide Stairs Room](#shoal-cave-low-tide-stairs-room)
-- [Sky Pillar 1F](#sky-pillar-1f)
-- [Sky Pillar 3F](#sky-pillar-3f)
-- [Sky Pillar 5F](#sky-pillar-5f)
+- [Sky Pillar 1F](#sky-pillar-1f) (changes after the Champion)
+- [Sky Pillar 3F](#sky-pillar-3f) (changes after the Champion)
+- [Sky Pillar 5F](#sky-pillar-5f) (changes after the Champion)
 - [Slateport City](#slateport-city)
 - [Sootopolis City](#sootopolis-city)
 - [Underwater 1](#underwater-1)
 - [Underwater 2](#underwater-2)
 - [Victory Road 1F](#victory-road-1f)
 - [Victory Road B1F](#victory-road-b1f)
-- [Victory Road B2F](#victory-road-b2f)
+- [Victory Road B2F](#victory-road-b2f) (changes after the Champion)
 
 ## Route 101
 
@@ -121,6 +123,20 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Poochyena | 3-4 | 15% |
 | Ralts | 4 | 4% |
 | Surskit | 3 | 1% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zigzagoon | 3-4 | 30% |
+| Wurmple | 3-4 | 30% |
+| Poochyena | 3-4 | 15% |
+| Seedot | 3 | 10% |
+| Lotad | 4 | 10% |
+| Ralts | 4 | 4% |
+| Surskit | 3 | 1% |
+
+New after the Champion: Lotad.
 
 **Surfing**
 
@@ -499,6 +515,21 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zangoose | 15-17 | 19% |
 | Nuzleaf | 16-18 | 10% |
 | Surskit | 15 | 1% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Swablu | 15-17 | 40% |
+| Seedot | 16 | 20% |
+| Lotad | 15 | 10% |
+| Zangoose | 16 | 10% |
+| Seviper | 15-17 | 9% |
+| Nuzleaf | 16 | 5% |
+| Lombre | 18 | 5% |
+| Surskit | 15 | 1% |
+
+New after the Champion: Lotad, Seviper and Lombre.
 
 **Surfing**
 
@@ -1286,6 +1317,17 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Mawile | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-37 | 60% |
+| Mawile | 32-37 | 20% |
+| Sableye | 34 | 10% |
+| Golbat | 35-39 | 10% |
+
+New after the Champion: Sableye.
+
 ## Cave of Origin B1F
 
 **Grass and cave floor**
@@ -1295,6 +1337,17 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zubat | 32-37 | 60% |
 | Mawile | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-37 | 60% |
+| Mawile | 32-37 | 20% |
+| Sableye | 34 | 10% |
+| Golbat | 35-39 | 10% |
+
+New after the Champion: Sableye.
 
 ## Cave of Origin B2F
 
@@ -1306,6 +1359,17 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Mawile | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-37 | 60% |
+| Mawile | 32-37 | 20% |
+| Sableye | 34 | 10% |
+| Golbat | 35-39 | 10% |
+
+New after the Champion: Sableye.
+
 ## Cave of Origin B3F
 
 **Grass and cave floor**
@@ -1315,6 +1379,17 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zubat | 32-37 | 60% |
 | Mawile | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-37 | 60% |
+| Mawile | 32-37 | 20% |
+| Sableye | 34 | 10% |
+| Golbat | 35-39 | 10% |
+
+New after the Champion: Sableye.
 
 ## Cave of Origin Entrance / Seafloor Cavern Room 1 / Seafloor Cavern Room 2 / Seafloor Cavern Room 3 / Seafloor Cavern Room 4 / Seafloor Cavern Room 5 / Seafloor Cavern Room 8
 
@@ -1425,6 +1500,19 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Makuhita | 10-11 | 10% |
 | Mawile | 9-11 | 10% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Aron | 9-11 | 40% |
+| Zubat | 9-10 | 30% |
+| Abra | 9 | 10% |
+| Makuhita | 10-11 | 10% |
+| Mawile | 9-10 | 5% |
+| Sableye | 10-11 | 5% |
+
+New after the Champion: Sableye.
+
 ## Granite Cave B2F
 
 **Grass and cave floor**
@@ -1435,6 +1523,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zubat | 10-11 | 30% |
 | Mawile | 10-12 | 20% |
 | Abra | 10 | 10% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Aron | 10-12 | 40% |
+| Zubat | 10-11 | 30% |
+| Abra | 10 | 10% |
+| Mawile | 10-12 | 10% |
+| Sableye | 10-11 | 10% |
+
+New after the Champion: Sableye.
 
 **Rock Smash**
 
@@ -1505,12 +1605,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Zubat | 14-20 | 80% |
 | Solrock | 14-18 | 20% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 14-20 | 80% |
+| Solrock | 16 | 10% |
+| Lunatone | 14-18 | 10% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Zubat | 5-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 5-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1542,12 +1662,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Golbat | 35-44 | 65% |
 | Solrock | 35-42 | 35% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 65% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1580,12 +1720,32 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Golbat | 35-44 | 65% |
 | Solrock | 35-42 | 35% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 65% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -1619,12 +1779,33 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Bagon | 26-38 | 25% |
 | Solrock | 38-42 | 25% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 50% |
+| Bagon | 26-38 | 25% |
+| Solrock | 38-42 | 15% |
+| Lunatone | 40 | 10% |
+
+New after the Champion: Lunatone.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
 |---|---|---|
 | Golbat | 32-38 | 90% |
 | Solrock | 5-38 | 10% |
+
+**Surfing, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 32-38 | 90% |
+| Solrock | 26-38 | 5% |
+| Lunatone | 5-26 | 5% |
+
+New after the Champion: Lunatone.
 
 **Old Rod**
 
@@ -2125,6 +2306,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Claydol | 52-55 | 25% |
 | Dusclops | 53-55 | 15% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 53-55 | 30% |
+| Claydol | 52-55 | 25% |
+| Mawile | 53 | 20% |
+| Dusclops | 53-55 | 15% |
+| Sableye | 55 | 10% |
+
+New after the Champion: Sableye.
+
 ## Sky Pillar 3F
 
 **Grass and cave floor**
@@ -2135,6 +2328,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Golbat | 56-59 | 30% |
 | Claydol | 55-59 | 25% |
 | Dusclops | 56-59 | 15% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 56-59 | 30% |
+| Claydol | 55-59 | 25% |
+| Mawile | 56 | 20% |
+| Dusclops | 56-59 | 15% |
+| Sableye | 59 | 10% |
+
+New after the Champion: Sableye.
 
 ## Sky Pillar 5F
 
@@ -2147,6 +2352,19 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Claydol | 60-62 | 19% |
 | Dusclops | 60-62 | 15% |
 | Altaria | 60-67 | 6% |
+
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 60-62 | 30% |
+| Mawile | 60 | 20% |
+| Claydol | 60-62 | 19% |
+| Dusclops | 60-62 | 15% |
+| Sableye | 62 | 10% |
+| Altaria | 60-67 | 6% |
+
+New after the Champion: Sableye.
 
 ## Slateport City
 
@@ -2271,6 +2489,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Lairon | 44-48 | 15% |
 | Medicham | 44-48 | 15% |
 
+**Grass and cave floor, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 44-48 | 35% |
+| Mawile | 44 | 20% |
+| Lairon | 44-48 | 15% |
+| Medicham | 44-48 | 15% |
+| Sableye | 46-48 | 15% |
+
+New after the Champion: Sableye.
+
 **Surfing**
 
 | Pokémon | Level | Chance |
@@ -2298,3 +2528,13 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 |---|---|---|
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
+
+## Safari Zone rules
+
+The Safari Zone, north of Route 121, is a game as in Gen 3:
+
+- **Entering:** the gate on Route 121 charges $500 and gives you 30 Safari Balls. You need the Pokéblock Case, and with a full party a free place in your PC's Boxes (a Pokémon you catch goes there).
+- **The game** lasts 500 steps. It is over when you have walked them ("Ding-dong! Time's up! Your Safari Game is over.") or when your Safari Balls run out, after the battle in which you threw the last one ("You've run out of Safari Balls. Your Safari Game is over."). Then you are back at the gate. The attendant by the door inside lets you leave sooner.
+- **Leftover Safari Balls** are taken back when the game ends. Flying away, Teleport or blacking out ends the game too, and takes the balls.
+- **Battles** are normal battles: your Pokémon fight as anywhere else (there is no bait or rock). Only Safari Balls can be thrown ("Only Safari Balls can be used in the Safari Zone!"), and they can't be used anywhere else ("Safari Balls can only be used in the Safari Zone!"). Each turn, the wild Pokémon runs away 15% of the time. You can always run, as in Gen 3: no ability such as Shadow Tag stops you.
+- The DexNav works here too: a search costs only the steps you walk, and its Pokémon follow the same rules.

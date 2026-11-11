@@ -21,6 +21,10 @@ What there is to do once you have entered the Hall of Fame: the event islands an
 | [Jirachi (Lv 5)](#gifts) | Mossdeep Space Center 1F | after the Hall of Fame |
 | [Celebi (Lv 10)](#gifts) | Petalburg Woods | with the National Pokédex |
 | [Enigma Berry](#gifts) | Dad, Petalburg City Gym | after the Hall of Fame |
+| [The two starters you didn't choose (Lv 5)](#the-two-starters-you-didnt-choose) | Prof. Birch's Lab, Littleroot | after the Hall of Fame |
+| [The other versions' wild Pokémon](#completing-the-pokédex) | routes and caves | after the Hall of Fame |
+| [Groudon (Lv 49)](#groudon-in-the-seafloor-cavern) | Seafloor Cavern, Route 128 | after the Hall of Fame |
+| [The fossil you didn't take](#the-fossil-you-didnt-take) | Route 111, the desert | after the Hall of Fame |
 | [Diploma](#gifts) | Cove Lily Motel 2F, Lilycove City | all Hoenn Pokédex Pokémon caught |
 | [Altering Cave](#altering-cave) | Route 103 | after the Hall of Fame |
 | [Mirage Island](#mirage-island) | Route 130 | some days, any time in the game |
@@ -74,7 +78,7 @@ The S.S. Ticket lets you board the S.S. Tidal at Slateport's and Lilycove's harb
 
 ### Southern Island
 
-From the boat, walk into the middle of the island and on to the stone at its far end. Stand in front of it and read it. Latios flies down and battles you. **One chance only:** whatever happens in the battle, it doesn't come back and the ferry doesn't sail there again. Save before you read the stone.
+From the boat, walk into the middle of the island and on to the stone at its far end. Stand in front of it and read it. Latios flies down and battles you. Once caught, it is gone. If you run away, lose or knock it out, it is gone for now: after your next Hall of Fame the ferry sails to the island again (while you hold the Eon Ticket) and it waits at the stone ([legendaries that come back](#legendaries-that-come-back)).
 
 ### Faraway Island
 
@@ -99,7 +103,7 @@ The triangle stands in the middle of the island top (in this game it looks like 
 
 The 10th time you talk to it after a jump, it breaks and Deoxys appears. One step too many and it goes back to the middle: talk to it there from below and start again from jump 1. Leaving the island resets the puzzle.
 
-Up to v19.0 the triangle always went back to the middle after its first jump, however you walked (a bug). The next update fixes it.
+Up to v19.0 the triangle always went back to the middle after its first jump, however you walked (a bug, fixed in v19.1).
 
 ### Navel Rock
 
@@ -121,6 +125,51 @@ From the boat, go into the rock and on through the caves to the long tunnel, and
 - **Celebi** (Lv 10): once you have the National Pokédex, it stands in the clearing in the north-east of Petalburg Woods, behind the girl who gives the Miracle Seed. Talk to it to battle it. If you run, it is back next time; if you knock it out, it comes back after your next Hall of Fame.
 - **Enigma Berry**: Dad gives you one in Petalburg City Gym after the Hall of Fame (once; not while you already carry one).
 - **Diploma**: catch all 200 Pokémon of the Hoenn Pokédex (Jirachi and Deoxys aren't needed) and talk to the game designer on the 2F of the Cove Lily Motel in Lilycove City. He and the rest of the game's staff are there after the Hall of Fame.
+
+## Completing the Pokédex
+
+After the Hall of Fame the whole Hoenn Pokédex can be completed in Pokémon Sapphire NDS on its own, without trading: the Pokémon only the other versions had, and the ones you could only have one of, are here too.
+
+### The other versions' Pokémon
+
+Some routes and caves get new wild tables after the Hall of Fame: the other versions' Pokémon take some of their slots. The [wild Pokémon page](wild-pokemon-sapphire.md) shows both tables of these areas (the second one is marked "after the Champion"). The Pokédex's AREA page and the [DexNav](dexnav.md) show the new Pokémon there once you are the Champion.
+
+| Pokémon | Where |
+|---|---|
+| Seedot | [Route 102](wild-pokemon-sapphire.md#route-102), [Route 114](wild-pokemon-sapphire.md#route-114) |
+| Nuzleaf | [Route 114](wild-pokemon-sapphire.md#route-114) |
+| Mawile | [Cave of Origin 1F](wild-pokemon-sapphire.md#cave-of-origin-1f), [Cave of Origin B1F](wild-pokemon-sapphire.md#cave-of-origin-b1f), [Cave of Origin B2F](wild-pokemon-sapphire.md#cave-of-origin-b2f), [Cave of Origin B3F](wild-pokemon-sapphire.md#cave-of-origin-b3f), [Granite Cave B1F](wild-pokemon-sapphire.md#granite-cave-b1f), [Granite Cave B2F](wild-pokemon-sapphire.md#granite-cave-b2f), [Sky Pillar 1F](wild-pokemon-sapphire.md#sky-pillar-1f), [Sky Pillar 3F](wild-pokemon-sapphire.md#sky-pillar-3f), [Sky Pillar 5F](wild-pokemon-sapphire.md#sky-pillar-5f), [Victory Road B2F](wild-pokemon-sapphire.md#victory-road-b2f) |
+| Zangoose | [Route 114](wild-pokemon-sapphire.md#route-114) |
+| Solrock | [Meteor Falls 1F 1R](wild-pokemon-sapphire.md#meteor-falls-1f-1r) (also surfing), [Meteor Falls 1F 2R](wild-pokemon-sapphire.md#meteor-falls-1f-2r) (also surfing), [Meteor Falls B1F 1R](wild-pokemon-sapphire.md#meteor-falls-b1f-1r) (also surfing), [Meteor Falls B1F 2R](wild-pokemon-sapphire.md#meteor-falls-b1f-2r) (also surfing) |
+
+### The two starters you didn't choose
+
+Talk to Prof. Birch in his Lab after he has given you the National Pokédex. He gives you the two Pokémon from his Bag that you didn't pick on Route 101, Lv 5, one after the other. Each one joins your party, or goes to your PC when your party is full. If your Boxes are full too, he keeps it until you have made room.
+
+### Huntail and Gorebyss
+
+Clamperl evolves into Huntail when you use a DeepSeaTooth from the Bag, and into Gorebyss with a DeepSeaScale ([trade evolutions](evolutions.md)). Capt. Stern at Slateport City's harbor gives you one of the two for the Scanner. Wild Pokémon hold the other one 5% of the time: the DeepSeaTooth Carvanha and Sharpedo (fishing) and the DeepSeaScale Chinchou and Relicanth (underwater). Catch one that holds it. The DexNav can't help with these: it doesn't list fished Pokémon, and it searches the water only while you surf, not while you dive.
+
+### Groudon in the Seafloor Cavern
+
+Groudon, the legendary Pokémon of Pokémon Ruby, sleeps in the last room of the Seafloor Cavern, the room where the story's Kyogre slept. After the Hall of Fame that room looks as it does in Pokémon Ruby: a basin of lava with Groudon on it. Dive on Route 128 ([field moves](tms-and-hms.md#field-moves-without-hms)), surface into the cavern as in the story and make your way through to that last room. Walk up toward it: it wakes up and battles you (Lv 49). Once caught, it is gone. If you run away, lose or knock it out, it is back after your next Hall of Fame.
+
+While it sleeps there, the scientist on the 2F of the Weather Institute (Route 119), the one who gave you Castform, has a hint: "We've been picking up strange readings from deep under the sea off Route 128..."
+
+### The fossil you didn't take
+
+After the Hall of Fame, the fossil you left in the Route 111 desert (the Root Fossil or the Claw Fossil) is back at its spot the next time you come to Route 111. You need the Go-Goggles to cross the sandstorm, as before. Take it to the Devon Corporation in Rustboro City to have it revived, as you did with the first one.
+
+### Legendaries that come back
+
+A legendary Pokémon that you ran from, lost to or knocked out comes back after your next Hall of Fame. Once caught, it is gone for good. That is how the event-island legendaries, Celebi and the roaming legendaries already worked, and now these do too:
+- **Kyogre** in the Cave of Origin: it is back in the deepest room, where you met it in the story.
+- **Regirock, Regice and Registeel** in their chambers ([the Sealed Chamber](#the-sealed-chamber)).
+- **Rayquaza** at the top of the [Sky Pillar](#sky-pillar).
+- **Latios** on [Southern Island](#southern-island): the ferry sails there again while you hold the Eon Ticket.
+- **Groudon** in the [Seafloor Cavern](#groudon-in-the-seafloor-cavern).
+
+"Caught" means that your Pokédex shows it as caught (one you got in a trade counts too). This works on saves from older versions as well: a legendary you lost there comes back after your next Hall of Fame.
 
 ## New places
 
@@ -150,7 +199,7 @@ After the Hall of Fame a rocky islet appears on Route 131 (west of Pacifidlog To
 - **Cracked floors (2F and 4F):** walking onto a crack drops you to the floor below. Ride your Bicycle over them. Here any riding crosses them, slow or fast (in Gen 3 it took the Mach Bike at full speed).
 - **4F:** the stairs up to 5F are in the top-left corner, and you can't ride there. Ride round to the narrow passage that runs just below that corner, get off the Bicycle, and walk onto one of the two cracks in the middle of the passage. You drop into a closed-off part of 3F; its stairs take you up into the corner, by the stairs to 5F.
 
-At the top waits Rayquaza (Lv 78): talk to it. **One chance only:** whatever happens in the battle, it doesn't come back. Save before you talk to it.
+At the top waits Rayquaza (Lv 78): talk to it. Once caught, it is gone. If you run away, lose or knock it out, it is back at the top after your next Hall of Fame ([legendaries that come back](#legendaries-that-come-back)).
 
 ## Other legendaries
 
@@ -158,11 +207,12 @@ The legendaries you meet in the rest of the game:
 
 | Pokémon | Where | When | Level | Chances |
 |---|---|---|---|---|
-| Kyogre | Cave of Origin, Sootopolis City | during the story | 49 | one battle |
-| Regirock | Desert Ruins (Route 111) | after the Sealed Chamber | 44 | one battle |
-| Regice | Island Cave (Route 105) | after the Sealed Chamber | 44 | one battle |
-| Registeel | Ancient Tomb (Route 120) | after the Sealed Chamber | 44 | one battle |
-| Rayquaza | Sky Pillar, top (Route 131) | after the Hall of Fame | 78 | one battle |
+| Kyogre | Cave of Origin, Sootopolis City | during the story | 49 | not caught: back after your next Hall of Fame |
+| Regirock | Desert Ruins (Route 111) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Regice | Island Cave (Route 105) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Registeel | Ancient Tomb (Route 120) | after the Sealed Chamber | 44 | not caught: back after your next Hall of Fame |
+| Rayquaza | Sky Pillar, top (Route 131) | after the Hall of Fame | 78 | not caught: back after your next Hall of Fame |
+| Groudon | [Seafloor Cavern, last room](#groudon-in-the-seafloor-cavern) (Route 128) | after the Hall of Fame | 49 | not caught: back after your next Hall of Fame |
 
 ### The Sealed Chamber
 

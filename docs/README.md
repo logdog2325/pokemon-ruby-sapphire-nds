@@ -13,6 +13,7 @@ Made from the game's own data, so it matches the current release.
 | After the Hall of Fame | [Sapphire](postgame-sapphire.md) | [Ruby](postgame-ruby.md) | [Emerald](postgame-emerald.md) |
 | Levels and the Exp. Share | [Sapphire](levels.md) | [Ruby](levels.md) | [Emerald](levels.md) |
 
+- [The DexNav](dexnav.md)
 - [Start-of-game options](options.md)
 - [The Fairy type (optional)](fairy-type.md)
 - [TMs and HMs](tms-and-hms.md)

@@ -40,6 +40,8 @@ Find the original level: the row is the tens, the column the ones. Levels 1-24 d
 |---|---|---|---|---|
 | Kyogre | Cave of Origin | Sapphire | 45 | 49 |
 | Groudon | Cave of Origin | Ruby | 45 | 49 |
+| Groudon | Seafloor Cavern (after the Hall of Fame) | Sapphire | 45 | 49 |
+| Kyogre | Seafloor Cavern (after the Hall of Fame) | Ruby | 45 | 49 |
 | Regirock | Desert Ruins | all versions | 40 | 44 |
 | Regice | Island Cave | all versions | 40 | 44 |
 | Registeel | Ancient Tomb | all versions | 40 | 44 |
@@ -75,6 +77,7 @@ Find the original level: the row is the tens, the column the ones. Levels 1-24 d
   - Lileep or Anorith (Lv 20), Devon Corporation, Rustboro City (from the fossil)
   - Beldum (Lv 5), Steven's house, Mossdeep City
   - Jirachi (Lv 5), Mossdeep Space Center
+  - The two starters you didn't choose (Lv 5), Prof. Birch's Lab (after the Hall of Fame)
   - Cyndaquil, Totodile or Chikorita (Lv 5), Prof. Birch's Lab (Emerald)
 - **In-game trades** come at a fixed level:
   - Sapphire and Ruby: Makuhita for your Slakoth (Lv 5), Skitty for your Pikachu (Lv 15) and Corsola for your Bellossom (Lv 30).

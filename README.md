@@ -20,21 +20,35 @@ Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon B
 
 **Pokémon Emerald NDS:** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
 
+## New in Sapphire/Ruby NDS v20.0 and Emerald NDS v3.0
+
+- **The DexNav:** Omega Ruby and Alpha Sapphire's DexNav on the touch screen. It shows the wild Pokémon of the place you're in and finds hidden ones, with perfect IVs, egg moves, hidden abilities and better shiny odds as you search more. Your rival shows you how it works on Route 101 ([how it works](docs/dexnav.md)).
+- **Complete the Hoenn Pokédex in one version:** after the Champion, the other versions' Pokémon appear in the wild, Professor Birch gives you the two starters you didn't choose, and in Sapphire and Ruby the other weather legendary and the fossil you didn't take are waiting (how: [Sapphire](docs/postgame-sapphire.md#completing-the-pokédex), [Ruby](docs/postgame-ruby.md#completing-the-pokédex), [Emerald](docs/postgame-emerald.md#completing-the-pokédex)).
+- **Legendaries come back:** a legendary you ran from, lost to or knocked out returns after your next Hall of Fame.
+- **The Safari Zone's game, as in Gen 3:** 30 Safari Balls and 500 steps for $500, only Safari Balls inside, and wild Pokémon that may run away ([rules](docs/wild-pokemon-sapphire.md#safari-zone-rules)).
+- **New trainer battle sprites:** 29 trainer classes have new Gen 5-style battle sprites by ASalman (NEW sprite style). Ninja Boys and Collectors now have pictures of their own.
+- **Towns:** Rustboro, Slateport, Dewford, Petalburg, Lilycove, Mauville and the Gyms look closer to Black 2's towns, with taller buildings, streets and harbour details. Rustboro's Devon Corporation stands on a raised terrace, and Slateport's Oceanic Museum on a raised pier.
+- **Fixes:** the Lilycove Department Store elevator no longer drops you in Unova; the Safari Zone gate lets a full party in when the PC has room, and Safari Balls no longer stack up; no more Unova swarms in Hoenn's grass after the Hall of Fame; Anna & Meg on Route 117 have their own battle picture, and in Emerald they (and other trainers) no longer offer a rematch right after the first battle; Emerald's Johto starter scene and its TM lines.
+
+Already playing? Your save carries over: talk to Professor Birch in his lab to get the DexNav. The full list is in the [release notes](../../releases).
+
 ## Gen 3 features rebuilt on the DS
 
 - Pokémon Contests at each version's halls, with Pokéblocks and the Berry Blender.
 - Secret Bases with all 24 layouts and the full decoration catalogue.
 - The PokéNav on the touch screen, with the overworld still on top.
 - Berry planting with the Wailmer Pail, Rock Smash encounters and Feebas on its original Route 119 tiles.
+- The Safari Zone's game: 500 steps and 30 Safari Balls, Safari Balls only inside.
 
 ## Modern quality-of-life features
 
+- The DexNav from Omega Ruby and Alpha Sapphire on the touch screen: see which Pokémon live in each area and which you've caught, and search for hidden ones with perfect IVs, egg moves, hidden abilities and shiny chains ([how it works](docs/dexnav.md)).
 - Following Pokémon: your first Pokémon walks behind you. Birch asks about it in a new game, and the aide in his lab switches it on or off, on older saves too.
 - Field moves work without teaching HMs: just the badge and the HM in your Bag.
 - A Gen 6-style Exp. Share you switch on and off. Opponent levels are [scaled to match it](docs/levels.md).
 - Every trade evolution happens in-game, by level-up or by using an item.
 - Emerald's event islands (Southern Island, Faraway Island, Birth Island and Navel Rock) unlock in-game, no Mystery Gift needed.
-- A bigger post-game: the National Dex, seven roaming legendaries, Jirachi, Celebi, Mirage Island and Altering Cave.
+- A bigger post-game: the National Dex, seven roaming legendaries, Jirachi, Celebi, Mirage Island and Altering Cave. After the Champion each version's Hoenn Pokédex can be completed without trading, and legendaries you didn't catch come back after the next Hall of Fame.
 - Your choice at the start of the adventure: the Fairy type (with Gen 6's type chart and new Fairy moves), modern or classic physical/special split, and Hoenn's original soundtrack (played on Black 2's instruments) or Black 2's music.
 - The Hoenn Battle Tower, and the Pokémon World Tournament on the Battle Tower island.
 - The Hoenn town map and Pokédex.
@@ -59,7 +73,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v19.1.bps`, `Pokemon_Ruby_NDS_v19.1.bps` or `Pokemon_Emerald_NDS_v2.1.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v20.0.bps`, `Pokemon_Ruby_NDS_v20.0.bps` or `Pokemon_Emerald_NDS_v3.0.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
@@ -69,7 +83,7 @@ Use in-game saves. When you update to a new version, your save carries over, but
 
 ## Player guide
 
-The [player guide](docs/README.md) lists each version's wild Pokémon, item locations and important trainers, plus the TMs and HMs, the Fairy type changes, the trade evolutions, the start-of-game options, how levels work with the Exp. Share, everything to do after the Hall of Fame (event islands, roaming legendaries, gifts, rematches) and Emerald's Battle Frontier rules.
+The [player guide](docs/README.md) lists each version's wild Pokémon (including the ones that appear after the Champion), item locations and important trainers, plus the DexNav, the TMs and HMs, the Fairy type changes, the trade evolutions, the start-of-game options, how levels work with the Exp. Share, everything to do after the Hall of Fame (event islands, roaming legendaries, gifts, completing the Pokédex, rematches) and Emerald's Battle Frontier rules.
 
 ## Trading and battling with friends
 
@@ -77,7 +91,7 @@ Every Pokémon Center has the Cable Club upstairs. Once you have your Pokédex:
 - **Left desk, Union Room (local wireless):** trade and battle with players near you, or with a second emulator window (melonDS: System → Multiplayer → Launch new instance).
 - **Middle desk, Wi-Fi Club (online):** trade and battle with friends registered in your Pal Pad (Key Items). Online play needs a Wiimmfi-patched ROM, as for Black 2. It hasn't been tested with two real players yet.
 
-Sapphire, Ruby and Emerald NDS all meet each other, so you can complete the Hoenn Pokédex by trading.
+Sapphire, Ruby and Emerald NDS all meet each other, so you can trade to fill your Pokédex sooner (after the Champion, each version can also complete its Hoenn Pokédex on its own).
 - Everyone needs **Sapphire/Ruby NDS v18.0 or Emerald NDS v1.1, or later**. Older versions and the original Black 2/White 2 don't show up, because they can't safely read the Fairy moves and new items.
 - **Trade evolutions work both ways:** trade them (Kadabra, Machoke, Onix holding a Metal Coat…) or use the in-game ways (levels, items from the Bag).
 - **Link battles use the host's rules:** the Fairy type and the physical/special split follow the answers of the player whose game hosts the battle. Pick the same answers at the start of the game if you always want your own rules.
@@ -108,6 +122,7 @@ Sprites (the NEW sprite set, chosen at the start of the game):
 - **izzyvicious:** Drake, Phoebe, Sidney, Courtney and the Frontier Brains (overworld).
 - **brawlzilla:** Dragon Tamer, Kindler and the Experts (overworld).
 - **pokelustcompany:** Hex Maniac (overworld).
+- **ASalman:** 29 trainer battle sprites, made for HoennB2 (Youngster, Aroma Lady, Tubers, Ninja Boy, Gabby and Ty, Ruin Maniac, Picnicker, Fisherman, Poké Maniac, Collector, Rich Boy, Lady, Ace Trainers, Bug Maniac, Kindler, Battle Girl, Parasol Lady, Young Couple, Experts, Camper, Sailor, Dragon Tamer, Bird Keeper, Bug Catcher, Guitarist, Hex Maniac).
 - Shared on our Discord, artists still to be named: Lass and Poké Fans, and recolours of some sheets above.
 
 Tools used:
