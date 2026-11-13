@@ -29,6 +29,7 @@ Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon B
 - **New trainer battle sprites:** 29 trainer classes have new Gen 5-style battle sprites by ASalman (NEW sprite style). Ninja Boys and Collectors now have pictures of their own.
 - **Towns:** Rustboro, Slateport, Dewford, Petalburg, Lilycove, Mauville and the Gyms look closer to Black 2's towns, with taller buildings, streets and harbour details. Rustboro's Devon Corporation stands on a raised terrace, and Slateport's Oceanic Museum on a raised pier.
 - **Fixes:** the Lilycove Department Store elevator no longer drops you in Unova; the Safari Zone gate lets a full party in when the PC has room, and Safari Balls no longer stack up; no more Unova swarms in Hoenn's grass after the Hall of Fame; Anna & Meg on Route 117 have their own battle picture, and in Emerald they (and other trainers) no longer offer a rematch right after the first battle; Emerald's Johto starter scene and its TM lines.
+- **Fixed in v20.1 / v3.1:** the Escape Rope in New Mauville and Sky Pillar; flying to Littleroot Town and straight to the Pokémon League; your own Brendan or May in the Fly animation; and double battles where the opposing Pokémon attacked each other.
 
 Already playing? Your save carries over: talk to Professor Birch in his lab to get the DexNav. The full list is in the [release notes](../../releases).
 
@@ -73,7 +74,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v20.0.bps`, `Pokemon_Ruby_NDS_v20.0.bps` or `Pokemon_Emerald_NDS_v3.0.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v20.1.bps`, `Pokemon_Ruby_NDS_v20.1.bps` or `Pokemon_Emerald_NDS_v3.1.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
