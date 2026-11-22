@@ -86,6 +86,8 @@ Hoenn's TMs and HMs are Black 2's items. Black 2 numbers its TMs differently, so
 
 Obstacles are still there, but you don't have to teach an HM. As in Ruby and Sapphire, a field move needs its Hoenn badge; then either a Pokémon that knows the move or the move's TM/HM in your Bag is enough.
 
+Fly works from two places: the Town Map in your Key Items, and the party menu. With the Feather Badge and HM02 in your Bag, every Pokémon that could learn Fly from HM02 shows Fly in its party menu, even if it doesn't know the move. Picking it opens the Fly map, the same as for a Pokémon that knows Fly.
+
 | Move | Item in the Bag | Badge |
 |---|---|---|
 | Cut | HM01 Cut | Stone Badge |

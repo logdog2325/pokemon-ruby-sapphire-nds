@@ -41,8 +41,8 @@ The bonuses are decided when the search starts, so the battle's Pokémon is the 
 
 ## Searching
 
-1. Tap a Pokémon on the area map, then SEARCH. Pokémon of the ground need you on foot; for one of the water you must be surfing ("Go surfing to look for this one.").
-2. The DexNav hides it 3 to 5 steps away (2 when there is no room further out), in a spot you can walk (or surf) to: shaking tall grass, a dust cloud on a cave floor or in the desert sand, or rippling water. "It's hiding nearby! Sneak up on it." When there is nowhere to put it: "Nothing could be found here."
+1. Tap a Pokémon on the area map, then SEARCH. Pokémon of the ground need you on foot; for one of the water you must be surfing, or diving underwater ("Go surfing to look for this one.").
+2. The DexNav hides it 3 to 5 steps away (2 when there is no room further out), in a spot you can walk (or surf) to: shaking tall grass, a dust cloud on a cave floor or in the desert sand, rippling water, or rustling seaweed underwater. "It's hiding nearby! Sneak up on it." When there is nowhere to put it: "Nothing could be found here."
 3. Walk onto the spot: a wild battle with that Pokémon starts, with the normal wild battle music. Catch it or knock it out.
 
 - While it hides, no other wild Pokémon jump out at you.
@@ -94,5 +94,5 @@ Every wild Pokémon has a 1 in 8,192 chance to be shiny. A DexNav Pokémon gets 
 ## Good to know
 
 - It works with saves from older versions: talk to Prof. Birch to get it ([above](#getting-it)).
-- In the Safari Zone a search costs only the steps you walk, and the Pokémon it finds follow the Safari Zone's rules ([Sapphire](wild-pokemon-sapphire.md#safari-zone-rules), [Ruby](wild-pokemon-ruby.md#safari-zone-rules), [Emerald](wild-pokemon-emerald.md#safari-zone-rules)).
+- In the Safari Zone a search costs only the steps you walk, and the Pokémon it finds is a Safari battle like the others there (Ball, Pokéblock, Go Near, Run); one you catch keeps its bonuses ([Sapphire](wild-pokemon-sapphire.md#safari-zone-rules), [Ruby](wild-pokemon-ruby.md#safari-zone-rules), [Emerald](wild-pokemon-emerald.md#safari-zone-rules)).
 - Searching never changes the normal wild Pokémon: walking in the grass without a search is as before, and the [wild Pokémon pages](README.md) show the same tables.

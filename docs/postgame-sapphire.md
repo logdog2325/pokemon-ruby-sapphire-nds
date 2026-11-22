@@ -148,7 +148,7 @@ Talk to Prof. Birch in his Lab after he has given you the National Pokédex. He 
 
 ### Huntail and Gorebyss
 
-Clamperl evolves into Huntail when you use a DeepSeaTooth from the Bag, and into Gorebyss with a DeepSeaScale ([trade evolutions](evolutions.md)). Capt. Stern at Slateport City's harbor gives you one of the two for the Scanner. Wild Pokémon hold the other one 5% of the time: the DeepSeaTooth Carvanha and Sharpedo (fishing) and the DeepSeaScale Chinchou and Relicanth (underwater). Catch one that holds it. The DexNav can't help with these: it doesn't list fished Pokémon, and it searches the water only while you surf, not while you dive.
+Clamperl evolves into Huntail when you use a DeepSeaTooth from the Bag, and into Gorebyss with a DeepSeaScale ([trade evolutions](evolutions.md)). Capt. Stern at Slateport City's harbor gives you one of the two for the Scanner. Wild Pokémon hold the other one 5% of the time: the DeepSeaTooth Carvanha and Sharpedo (fishing) and the DeepSeaScale Chinchou and Relicanth (underwater). Catch one that holds it. The [DexNav](dexnav.md)'s rare-held-item bonus raises that chance for Chinchou and Relicanth.
 
 ### Groudon in the Seafloor Cavern
 
@@ -191,7 +191,7 @@ After the Hall of Fame a cave opens in the cliff on the north side of the water 
 
 ### Mirage Island
 
-Not tied to the Hall of Fame: the island shows on Route 130 (between Route 129 and Route 131) on days when the day's number matches a Pokémon in your party (Eggs too). That is 1 in 128 for each Pokémon each day, about 1 in 22 days with six. The number changes once a day. On the island: Wynaut (Lv 5-55) in the tall grass, and a Liechi Berry tree.
+Not tied to the Hall of Fame: the island shows on Route 130 (between Route 129 and Route 131) on days when the day's number matches a Pokémon in your party (Eggs too). That is 1 in 128 for each Pokémon each day, about 1 in 22 days with six. The number changes once a day. On the island: Wynaut (Lv 5-55) in the tall grass, and a Liechi Berry tree. The old man in the easternmost house of Pacifidlog Town tells you whether he can see it today.
 
 ### Sky Pillar
 

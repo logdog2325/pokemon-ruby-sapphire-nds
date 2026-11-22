@@ -20,6 +20,12 @@ Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon B
 
 **Pokémon Emerald NDS:** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
 
+## New in Sapphire/Ruby NDS v20.2 and Emerald NDS v3.2
+
+- **Safari battles, as in Gen 3:** in the Safari Zone you choose Ball, Pokéblock, Go Near or Run instead of battling, with Gen 3's Safari Ball count on the top screen. The Safari Ball catches 1.5 times as well as a Poké Ball (it caught like a Poké Ball before), and DexNav Pokémon there keep their bonuses ([rules](docs/wild-pokemon-sapphire.md#safari-zone-rules)).
+- **Fly from the party menu** for any Pokémon that can learn it (with the Feather Badge and HM02).
+- **Fixes:** visible sea currents and Sootopolis Gym's ice cracks; the DexNav underwater; Fairy moves in the Move Reminder; Birch's post-game starters with a full party; the Abandoned Ship's Rm. 6 Key; waterfalls need Waterfall to go up; Petalburg Gym's ways back after Norman; the Mirage Island watcher in Pacifidlog; in Emerald, the Aqua Hideout after the Mind Badge, five Gym trainers' looks and the Pokémon League's link desks.
+
 ## New in Sapphire/Ruby NDS v20.0 and Emerald NDS v3.0
 
 - **The DexNav:** Omega Ruby and Alpha Sapphire's DexNav on the touch screen. It shows the wild Pokémon of the place you're in and finds hidden ones, with perfect IVs, egg moves, hidden abilities and better shiny odds as you search more. Your rival shows you how it works on Route 101 ([how it works](docs/dexnav.md)).
@@ -39,7 +45,7 @@ Already playing? Your save carries over: talk to Professor Birch in his lab to g
 - Secret Bases with all 24 layouts and the full decoration catalogue.
 - The PokéNav on the touch screen, with the overworld still on top.
 - Berry planting with the Wailmer Pail, Rock Smash encounters and Feebas on its original Route 119 tiles.
-- The Safari Zone's game: 500 steps and 30 Safari Balls, Safari Balls only inside.
+- The Safari Zone's game and battles: 500 steps and 30 Safari Balls, and Ball, Pokéblock, Go Near and Run in battle.
 
 ## Modern quality-of-life features
 
@@ -74,7 +80,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v20.1.bps`, `Pokemon_Ruby_NDS_v20.1.bps` or `Pokemon_Emerald_NDS_v3.1.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v20.2.bps`, `Pokemon_Ruby_NDS_v20.2.bps` or `Pokemon_Emerald_NDS_v3.2.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).
