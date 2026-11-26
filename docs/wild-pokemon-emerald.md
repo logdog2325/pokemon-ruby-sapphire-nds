@@ -11,102 +11,114 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 - Percentages add up the slots of the same Pokémon.
 - **After the Champion** (from your first Hall of Fame on), some areas use a second table, marked "after the Champion": the other versions' Pokémon take some of their slots, so you can catch them without trading ([completing the Pokédex](postgame-emerald.md#completing-the-pokédex)).
 - **Safari Zone:** its areas are a game with its own rules ([Safari Zone rules](#safari-zone-rules)).
+- **Pokémon from other regions** (YES to Professor Birch's eighth question, or the lab worker in Birch's lab: [options](options.md)): Pokémon from Sinnoh and Unova (Gen 4 and 5) take some of the slots in most areas, usually about a quarter of the encounters there (5% to 34% of a grass or surfing table). Those tables come after the area's own ones and are marked "with Pokémon from other regions"; without that option, the area's own tables apply. The Old Rod is never changed. Some of them change again after the Champion (marked "with Pokémon from other regions, after the Champion").
+- **The Gen 4 and 5 starters** are in the wild with that option, very rare, one area each:
+
+| Pokémon | Where | How | Chance |
+|---|---|---|---|
+| Chimchar | [Route 112](#route-112) | grass | 1% |
+| Oshawott | [Petalburg City](#petalburg-city) | surfing | 1% |
+| Piplup | [Route 103](#route-103) | grass | 1% |
+| Snivy | [Route 116](#route-116) | grass | 1% |
+| Tepig | [Route 113](#route-113) | grass | 1% |
+| Turtwig | [Petalburg Woods](#petalburg-woods) | grass | 1% |
 
 ## Areas
 
-- [Route 101](#route-101)
-- [Route 102](#route-102) (changes after the Champion)
-- [Route 103](#route-103)
-- [Route 104](#route-104)
-- [Route 105](#route-105)
-- [Route 106](#route-106)
-- [Route 107](#route-107)
-- [Route 108](#route-108)
-- [Route 109](#route-109)
-- [Route 110](#route-110)
-- [Route 111](#route-111) (changes after the Champion)
-- [Route 112](#route-112)
-- [Route 113](#route-113)
-- [Route 114](#route-114) (changes after the Champion)
-- [Route 115](#route-115)
-- [Route 116](#route-116)
-- [Route 117](#route-117) (changes after the Champion)
-- [Route 118](#route-118)
-- [Route 119](#route-119)
-- [Route 120](#route-120) (changes after the Champion)
-- [Route 121](#route-121)
-- [Route 122](#route-122)
-- [Route 123](#route-123)
-- [Route 124](#route-124)
-- [Route 125](#route-125)
-- [Route 126](#route-126)
-- [Route 127](#route-127)
-- [Route 128](#route-128)
-- [Route 129](#route-129)
-- [Route 130](#route-130)
-- [Route 131](#route-131)
-- [Route 132](#route-132)
-- [Route 133](#route-133)
-- [Route 134](#route-134)
-- [Abandoned Ship Hidden Floor Corridors / Abandoned Ship Rooms B1F](#abandoned-ship-hidden-floor-corridors--abandoned-ship-rooms-b1f)
+- [Route 101](#route-101) (other regions)
+- [Route 102](#route-102) (changes after the Champion, other regions)
+- [Route 103](#route-103) (other regions)
+- [Route 104](#route-104) (other regions)
+- [Route 105](#route-105) (other regions)
+- [Route 106](#route-106) (other regions)
+- [Route 107](#route-107) (other regions)
+- [Route 108](#route-108) (other regions)
+- [Route 109](#route-109) (other regions)
+- [Route 110](#route-110) (other regions)
+- [Route 111](#route-111) (changes after the Champion, other regions)
+- [Route 112](#route-112) (other regions)
+- [Route 113](#route-113) (other regions)
+- [Route 114](#route-114) (changes after the Champion, other regions)
+- [Route 115](#route-115) (other regions)
+- [Route 116](#route-116) (other regions)
+- [Route 117](#route-117) (changes after the Champion, other regions)
+- [Route 118](#route-118) (other regions)
+- [Route 119](#route-119) (other regions)
+- [Route 120](#route-120) (changes after the Champion, other regions)
+- [Route 121](#route-121) (other regions)
+- [Route 122](#route-122) (other regions)
+- [Route 123](#route-123) (other regions)
+- [Route 124](#route-124) (other regions)
+- [Route 125](#route-125) (other regions)
+- [Route 126](#route-126) (other regions)
+- [Route 127](#route-127) (other regions)
+- [Route 128](#route-128) (other regions)
+- [Route 129](#route-129) (other regions)
+- [Route 130](#route-130) (other regions)
+- [Route 131](#route-131) (other regions)
+- [Route 132](#route-132) (other regions)
+- [Route 133](#route-133) (other regions)
+- [Route 134](#route-134) (other regions)
+- [Abandoned Ship Hidden Floor Corridors / Abandoned Ship Rooms B1F](#abandoned-ship-hidden-floor-corridors--abandoned-ship-rooms-b1f) (other regions)
 - [Altering Cave](#altering-cave)
 - [Artisan Cave 1F / Artisan Cave B1F](#artisan-cave-1f--artisan-cave-b1f)
-- [Cave of Origin 1F](#cave-of-origin-1f)
-- [Cave of Origin B1F](#cave-of-origin-b1f)
-- [Cave of Origin B2F](#cave-of-origin-b2f)
-- [Cave of Origin B3F](#cave-of-origin-b3f)
-- [Cave of Origin Entrance / Seafloor Cavern Room 1 / Seafloor Cavern Room 2 / Seafloor Cavern Room 3 / Seafloor Cavern Room 4 / Seafloor Cavern Room 5 / Seafloor Cavern Room 8](#cave-of-origin-entrance--seafloor-cavern-room-1--seafloor-cavern-room-2--seafloor-cavern-room-3--seafloor-cavern-room-4--seafloor-cavern-room-5--seafloor-cavern-room-8)
-- [Desert Underpass](#desert-underpass)
-- [Dewford Town](#dewford-town)
-- [Ever Grande City](#ever-grande-city)
-- [Fiery Path](#fiery-path)
-- [Granite Cave 1F](#granite-cave-1f)
-- [Granite Cave B1F](#granite-cave-b1f)
-- [Granite Cave B2F](#granite-cave-b2f)
-- [Granite Cave Steven's Room](#granite-cave-stevens-room)
-- [Jagged Pass](#jagged-pass)
-- [Lilycove City](#lilycove-city)
-- [Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F](#magma-hideout-1f--magma-hideout-2f-1r--magma-hideout-2f-2r--magma-hideout-2f-3r--magma-hideout-3f-1r--magma-hideout-3f-2r--magma-hideout-3f-3r--magma-hideout-4f)
-- [Meteor Falls 1F 1R](#meteor-falls-1f-1r) (changes after the Champion)
-- [Meteor Falls 1F 2R](#meteor-falls-1f-2r) (changes after the Champion)
-- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r) (changes after the Champion)
-- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r) (changes after the Champion)
-- [Meteor Falls Steven's Cave](#meteor-falls-stevens-cave)
-- [Mirage Tower 1F / Mirage Tower 2F / Mirage Tower 3F / Mirage Tower 4F](#mirage-tower-1f--mirage-tower-2f--mirage-tower-3f--mirage-tower-4f)
-- [Mossdeep City](#mossdeep-city)
-- [Mt. Pyre 1F / Mt. Pyre 2F / Mt. Pyre 3F](#mt-pyre-1f--mt-pyre-2f--mt-pyre-3f)
-- [Mt. Pyre 4F / Mt. Pyre 5F / Mt. Pyre 6F](#mt-pyre-4f--mt-pyre-5f--mt-pyre-6f)
-- [Mt. Pyre Exterior](#mt-pyre-exterior) (changes after the Champion)
-- [Mt. Pyre Summit](#mt-pyre-summit)
-- [New Mauville Entrance](#new-mauville-entrance)
-- [New Mauville Inside](#new-mauville-inside)
-- [Pacifidlog Town](#pacifidlog-town)
-- [Petalburg City](#petalburg-city)
-- [Petalburg Woods](#petalburg-woods)
-- [Rusturf Tunnel](#rusturf-tunnel)
-- [Safari Zone North](#safari-zone-north)
+- [Cave of Origin 1F](#cave-of-origin-1f) (other regions)
+- [Cave of Origin B1F](#cave-of-origin-b1f) (other regions)
+- [Cave of Origin B2F](#cave-of-origin-b2f) (other regions)
+- [Cave of Origin B3F](#cave-of-origin-b3f) (other regions)
+- [Cave of Origin Entrance / Seafloor Cavern Room 1 / Seafloor Cavern Room 2 / Seafloor Cavern Room 3 / Seafloor Cavern Room 4 / Seafloor Cavern Room 5 / Seafloor Cavern Room 8](#cave-of-origin-entrance--seafloor-cavern-room-1--seafloor-cavern-room-2--seafloor-cavern-room-3--seafloor-cavern-room-4--seafloor-cavern-room-5--seafloor-cavern-room-8) (other regions)
+- [Desert Underpass](#desert-underpass) (other regions)
+- [Dewford Town](#dewford-town) (other regions)
+- [Ever Grande City](#ever-grande-city) (other regions)
+- [Fiery Path](#fiery-path) (other regions)
+- [Granite Cave 1F](#granite-cave-1f) (other regions)
+- [Granite Cave B1F](#granite-cave-b1f) (other regions)
+- [Granite Cave B2F](#granite-cave-b2f) (other regions)
+- [Granite Cave Steven's Room](#granite-cave-stevens-room) (other regions)
+- [Jagged Pass](#jagged-pass) (other regions)
+- [Lilycove City](#lilycove-city) (other regions)
+- [Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F](#magma-hideout-1f--magma-hideout-2f-1r--magma-hideout-2f-2r--magma-hideout-2f-3r--magma-hideout-3f-1r--magma-hideout-3f-2r--magma-hideout-3f-3r--magma-hideout-4f) (other regions)
+- [Mauville City](#mauville-city) (other regions)
+- [Meteor Falls 1F 1R](#meteor-falls-1f-1r) (changes after the Champion, other regions)
+- [Meteor Falls 1F 2R](#meteor-falls-1f-2r) (changes after the Champion, other regions)
+- [Meteor Falls B1F 1R](#meteor-falls-b1f-1r) (changes after the Champion, other regions)
+- [Meteor Falls B1F 2R](#meteor-falls-b1f-2r) (changes after the Champion, other regions)
+- [Meteor Falls Steven's Cave](#meteor-falls-stevens-cave) (other regions)
+- [Mirage Tower 1F / Mirage Tower 2F / Mirage Tower 3F / Mirage Tower 4F](#mirage-tower-1f--mirage-tower-2f--mirage-tower-3f--mirage-tower-4f) (other regions)
+- [Mossdeep City](#mossdeep-city) (other regions)
+- [Mt. Pyre 1F / Mt. Pyre 2F / Mt. Pyre 3F](#mt-pyre-1f--mt-pyre-2f--mt-pyre-3f) (other regions)
+- [Mt. Pyre 4F / Mt. Pyre 5F / Mt. Pyre 6F](#mt-pyre-4f--mt-pyre-5f--mt-pyre-6f) (other regions)
+- [Mt. Pyre Exterior](#mt-pyre-exterior) (changes after the Champion, other regions)
+- [Mt. Pyre Summit](#mt-pyre-summit) (other regions)
+- [New Mauville Entrance](#new-mauville-entrance) (other regions)
+- [New Mauville Inside](#new-mauville-inside) (other regions)
+- [Pacifidlog Town](#pacifidlog-town) (other regions)
+- [Petalburg City](#petalburg-city) (other regions)
+- [Petalburg Woods](#petalburg-woods) (other regions)
+- [Rusturf Tunnel](#rusturf-tunnel) (other regions)
+- [Safari Zone North](#safari-zone-north) (other regions)
 - [Safari Zone Northeast](#safari-zone-northeast)
-- [Safari Zone Northwest](#safari-zone-northwest)
-- [Safari Zone South](#safari-zone-south)
+- [Safari Zone Northwest](#safari-zone-northwest) (other regions)
+- [Safari Zone South](#safari-zone-south) (other regions)
 - [Safari Zone Southeast](#safari-zone-southeast)
-- [Safari Zone Southwest](#safari-zone-southwest)
-- [Seafloor Cavern Entrance](#seafloor-cavern-entrance)
-- [Seafloor Cavern Room 6 / Seafloor Cavern Room 7](#seafloor-cavern-room-6--seafloor-cavern-room-7)
-- [Shoal Cave Low Tide Entrance Room](#shoal-cave-low-tide-entrance-room)
-- [Shoal Cave Low Tide Ice Room](#shoal-cave-low-tide-ice-room)
-- [Shoal Cave Low Tide Inner Room](#shoal-cave-low-tide-inner-room)
-- [Shoal Cave Low Tide Lower Room](#shoal-cave-low-tide-lower-room)
-- [Shoal Cave Low Tide Stairs Room](#shoal-cave-low-tide-stairs-room)
-- [Sky Pillar 1F](#sky-pillar-1f)
-- [Sky Pillar 3F](#sky-pillar-3f)
-- [Sky Pillar 5F](#sky-pillar-5f)
-- [Slateport City](#slateport-city)
-- [Sootopolis City](#sootopolis-city)
-- [Underwater 1](#underwater-1)
-- [Underwater 2](#underwater-2)
-- [Victory Road 1F](#victory-road-1f)
-- [Victory Road B1F](#victory-road-b1f) (changes after the Champion)
-- [Victory Road B2F](#victory-road-b2f) (changes after the Champion)
+- [Safari Zone Southwest](#safari-zone-southwest) (other regions)
+- [Seafloor Cavern Entrance](#seafloor-cavern-entrance) (other regions)
+- [Seafloor Cavern Room 6 / Seafloor Cavern Room 7](#seafloor-cavern-room-6--seafloor-cavern-room-7) (other regions)
+- [Shoal Cave Low Tide Entrance Room](#shoal-cave-low-tide-entrance-room) (other regions)
+- [Shoal Cave Low Tide Ice Room](#shoal-cave-low-tide-ice-room) (other regions)
+- [Shoal Cave Low Tide Inner Room](#shoal-cave-low-tide-inner-room) (other regions)
+- [Shoal Cave Low Tide Lower Room](#shoal-cave-low-tide-lower-room) (other regions)
+- [Shoal Cave Low Tide Stairs Room](#shoal-cave-low-tide-stairs-room) (other regions)
+- [Sky Pillar 1F](#sky-pillar-1f) (other regions)
+- [Sky Pillar 3F](#sky-pillar-3f) (other regions)
+- [Sky Pillar 5F](#sky-pillar-5f) (other regions)
+- [Slateport City](#slateport-city) (other regions)
+- [Sootopolis City](#sootopolis-city) (other regions)
+- [Underwater 1](#underwater-1) (other regions)
+- [Underwater 2](#underwater-2) (other regions)
+- [Victory Road 1F](#victory-road-1f) (other regions)
+- [Victory Road B1F](#victory-road-b1f) (changes after the Champion, other regions)
+- [Victory Road B2F](#victory-road-b2f) (changes after the Champion, other regions)
 
 ## Route 101
 
@@ -117,6 +129,18 @@ Levels above 24 are raised to go with the Exp. Share (levels up to 24 are unchan
 | Wurmple | 2-3 | 45% |
 | Poochyena | 2-3 | 45% |
 | Zigzagoon | 2-3 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wurmple | 2-3 | 35% |
+| Poochyena | 2-3 | 35% |
+| Lillipup | 2-3 | 14% |
+| Bidoof | 3 | 10% |
+| Zigzagoon | 2-3 | 6% |
+
+New with Pokémon from other regions: Lillipup and Bidoof.
 
 ## Route 102
 
@@ -168,6 +192,58 @@ New after the Champion: Surskit.
 |---|---|---|
 | Corphish | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 3 | 20% |
+| Wurmple | 3 | 20% |
+| Lotad | 3-4 | 20% |
+| Kricketot | 3-4 | 15% |
+| Panpour | 4 | 10% |
+| Zigzagoon | 3-4 | 10% |
+| Ralts | 4 | 4% |
+| Seedot | 3 | 1% |
+
+New with Pokémon from other regions: Kricketot and Panpour.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 69% |
+| Tympole | 10-20 | 30% |
+| Goldeen | 20-32 | 1% |
+
+New with Pokémon from other regions: Tympole.
+
+**Surfing, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 69% |
+| Tympole | 10-20 | 30% |
+| Surskit | 20-32 | 1% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Blue-Striped) | 10-32 | 20% |
+| Corphish | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Corphish | 26-49 | 85% |
+| Basculin (Blue-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
 ## Route 103
 
 **Grass and cave floor**
@@ -208,6 +284,51 @@ New after the Champion: Surskit.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 2-3 | 50% |
+| Wingull | 2-4 | 15% |
+| Patrat | 3-4 | 14% |
+| Purrloin | 3 | 10% |
+| Zigzagoon | 3-4 | 10% |
+| Piplup | 2 | 1% |
+
+New with Pokémon from other regions: Patrat, Purrloin and Piplup.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 104
 
 **Grass and cave floor**
@@ -245,6 +366,50 @@ New after the Champion: Surskit.
 |---|---|---|
 | Magikarp | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 4 | 20% |
+| Wurmple | 4 | 20% |
+| Petilil | 5 | 10% |
+| Marill | 5 | 10% |
+| Starly | 4 | 10% |
+| Cottonee | 5 | 10% |
+| Taillow | 4-5 | 10% |
+| Wingull | 3-5 | 10% |
+
+New with Pokémon from other regions: Petilil, Starly and Cottonee.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wingull | 10-32 | 65% |
+| Ducklett | 15-26 | 30% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Ducklett.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 80% |
+| Finneon | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 105
 
 **Surfing**
@@ -275,6 +440,37 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 106
 
@@ -307,6 +503,37 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 107
 
 **Surfing**
@@ -337,6 +564,37 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 108
 
@@ -369,6 +627,37 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 109
 
 **Surfing**
@@ -399,6 +688,37 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 110
 
@@ -442,6 +762,42 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 12 | 20% |
+| Electrike | 12 | 20% |
+| Shinx | 13 | 15% |
+| Gulpin | 12 | 10% |
+| Minun | 13 | 10% |
+| Oddish | 13 | 10% |
+| Pachirisu | 12-13 | 9% |
+| Wingull | 12 | 4% |
+| Plusle | 12-13 | 2% |
+
+New with Pokémon from other regions: Shinx and Pachirisu.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 111
 
@@ -497,6 +853,49 @@ New after the Champion: Surskit.
 |---|---|---|
 | Geodude | 5-20 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Trapinch | 20-21 | 30% |
+| Sandshrew | 19-20 | 25% |
+| Baltoy | 19-20 | 14% |
+| Sandile | 21 | 10% |
+| Maractus | 21 | 10% |
+| Hippopotas | 19 | 5% |
+| Cacnea | 20-22 | 5% |
+| Gible | 22 | 1% |
+
+New with Pokémon from other regions: Sandile, Maractus, Hippopotas and Gible.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-49 | 85% |
+| Basculin (Red-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Rock Smash, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 10-20 | 70% |
+| Dwebble | 5-10 | 30% |
+
+New with Pokémon from other regions: Dwebble.
+
 ## Route 112
 
 **Grass and cave floor**
@@ -505,6 +904,20 @@ New after the Champion: Surskit.
 |---|---|---|
 | Numel | 14-16 | 75% |
 | Marill | 14-16 | 25% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Numel | 15-16 | 46% |
+| Marill | 14-16 | 25% |
+| Darumaka | 14 | 10% |
+| Throh | 14 | 10% |
+| Sawk | 16 | 4% |
+| Scraggy | 16 | 4% |
+| Chimchar | 16 | 1% |
+
+New with Pokémon from other regions: Darumaka, Throh, Sawk, Scraggy and Chimchar.
 
 ## Route 113
 
@@ -515,6 +928,20 @@ New after the Champion: Surskit.
 | Spinda | 14-16 | 70% |
 | Slugma | 14-16 | 25% |
 | Skarmory | 16 | 5% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Spinda | 15-16 | 45% |
+| Slugma | 14-16 | 25% |
+| Snover | 14-16 | 14% |
+| Pawniard | 14 | 10% |
+| Skarmory | 16 | 4% |
+| Audino | 16 | 1% |
+| Tepig | 16 | 1% |
+
+New with Pokémon from other regions: Snover, Pawniard, Audino and Tepig.
 
 ## Route 114
 
@@ -584,6 +1011,81 @@ New after the Champion: Surskit.
 |---|---|---|
 | Geodude | 5-20 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Lotad | 15-16 | 30% |
+| Swablu | 16 | 20% |
+| Lombre | 16-18 | 20% |
+| Glameow | 17 | 10% |
+| Stunky | 15 | 10% |
+| Seviper | 15-17 | 9% |
+| Nuzleaf | 15 | 1% |
+
+New with Pokémon from other regions: Glameow and Stunky.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Lotad | 15-16 | 30% |
+| Swablu | 16 | 20% |
+| Glameow | 17 | 10% |
+| Stunky | 15 | 10% |
+| Zangoose | 16 | 10% |
+| Lombre | 16-18 | 10% |
+| Seviper | 15-17 | 9% |
+| Nuzleaf | 15 | 1% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 20-38 | 65% |
+| Basculin (Blue-Striped) | 10-20 | 30% |
+| Basculin (Red-Striped) | 5-10 | 4% |
+| Goldeen | 20-32 | 1% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped) and Basculin (Red-Striped).
+
+**Surfing, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 20-38 | 65% |
+| Basculin (Blue-Striped) | 10-20 | 30% |
+| Basculin (Red-Striped) | 5-10 | 4% |
+| Surskit | 20-32 | 1% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Blue-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-49 | 85% |
+| Basculin (Blue-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
+**Rock Smash, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 10-20 | 70% |
+| Roggenrola | 5-10 | 30% |
+
+New with Pokémon from other regions: Roggenrola.
+
 ## Route 115
 
 **Grass and cave floor**
@@ -625,6 +1127,42 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Taillow | 23-24 | 30% |
+| Swablu | 23 | 20% |
+| Munna | 26 | 10% |
+| Staravia | 26 | 10% |
+| Swellow | 26 | 10% |
+| Jigglypuff | 24-26 | 10% |
+| Wingull | 24-26 | 5% |
+| Solosis | 24 | 4% |
+| Gothita | 27 | 1% |
+
+New with Pokémon from other regions: Munna, Staravia, Solosis and Gothita.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 116
 
 **Grass and cave floor**
@@ -637,6 +1175,23 @@ New after the Champion: Surskit.
 | Taillow | 6-8 | 20% |
 | Abra | 7 | 10% |
 | Skitty | 7-8 | 2% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 6-7 | 24% |
+| Whismur | 6 | 20% |
+| Nincada | 6 | 10% |
+| Abra | 7 | 10% |
+| Buneary | 7 | 10% |
+| Pidove | 6 | 10% |
+| Taillow | 7-8 | 10% |
+| Minccino | 8 | 4% |
+| Skitty | 7 | 1% |
+| Snivy | 8 | 1% |
+
+New with Pokémon from other regions: Buneary, Pidove, Minccino and Snivy.
 
 ## Route 117
 
@@ -702,6 +1257,56 @@ New after the Champion: Surskit.
 |---|---|---|
 | Corphish | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Oddish | 13-14 | 40% |
+| Poochyena | 13 | 20% |
+| Trubbish | 14 | 10% |
+| Marill | 13 | 10% |
+| Budew | 13 | 10% |
+| Illumise | 14 | 4% |
+| Combee | 14 | 4% |
+| Volbeat | 13 | 1% |
+| Seedot | 13 | 1% |
+
+New with Pokémon from other regions: Trubbish, Budew and Combee.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Roselia | 13-14 | 30% |
+| Poochyena | 13 | 20% |
+| Trubbish | 14 | 10% |
+| Marill | 13 | 10% |
+| Oddish | 13 | 10% |
+| Budew | 13 | 10% |
+| Illumise | 14 | 4% |
+| Combee | 14 | 4% |
+| Volbeat | 13 | 1% |
+| Seedot | 13 | 1% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Corphish | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Corphish | 26-49 | 85% |
+| Basculin (Red-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
 ## Route 118
 
 **Grass and cave floor**
@@ -745,6 +1350,53 @@ New after the Champion: Surskit.
 | Carvanha | 20-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zigzagoon | 24 | 20% |
+| Electrike | 24 | 20% |
+| Herdier | 26-27 | 15% |
+| Wingull | 26-28 | 14% |
+| Luxio | 27 | 10% |
+| Linoone | 27 | 10% |
+| Manectric | 27 | 10% |
+| Kecleon | 26 | 1% |
+
+New with Pokémon from other regions: Herdier and Luxio.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (East Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Carvanha | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Carvanha | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 119
 
 **Grass and cave floor**
@@ -785,6 +1437,51 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Carvanha | 20-49 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Linoone | 26-28 | 30% |
+| Zigzagoon | 26 | 20% |
+| Oddish | 26-28 | 15% |
+| Pansage | 28 | 10% |
+| Chatot | 27 | 10% |
+| Tropius | 26-28 | 9% |
+| Emolga | 24 | 5% |
+| Kecleon | 26 | 1% |
+
+New with Pokémon from other regions: Pansage, Chatot and Emolga.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Buizel | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Buizel.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Blue-Striped) | 10-32 | 20% |
+| Carvanha | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Carvanha | 26-49 | 85% |
+| Basculin (Blue-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
 
 **Feebas: fish on Route 119, 6 spots.** Six water tiles of the route, different in every save and fixed for that save, as in Gen 3: fishing there with any rod, half the bites are a Feebas (Lv 20-26), the others come from the tables above.
 
@@ -853,6 +1550,57 @@ New after the Champion: Surskit.
 |---|---|---|
 | Barboach | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 26 | 20% |
+| Mightyena | 26 | 20% |
+| Marill | 26-28 | 15% |
+| Karrablast | 28 | 10% |
+| Oddish | 26 | 10% |
+| Shelmet | 27 | 10% |
+| Absol | 26-28 | 8% |
+| Foongus | 28 | 5% |
+| Kecleon | 26 | 1% |
+| Seedot | 26 | 1% |
+
+New with Pokémon from other regions: Karrablast, Shelmet and Foongus.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 26 | 20% |
+| Mightyena | 26 | 20% |
+| Marill | 26-28 | 15% |
+| Karrablast | 28 | 10% |
+| Oddish | 26 | 10% |
+| Shelmet | 27 | 10% |
+| Absol | 26-28 | 8% |
+| Foongus | 28 | 5% |
+| Kecleon | 26 | 1% |
+| Surskit | 26 | 1% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-49 | 85% |
+| Basculin (Red-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
 ## Route 121
 
 **Grass and cave floor**
@@ -896,6 +1644,42 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 27 | 20% |
+| Shuppet | 27 | 20% |
+| Oddish | 27-29 | 15% |
+| Liepard | 28-29 | 14% |
+| Mightyena | 27 | 10% |
+| Watchog | 29 | 10% |
+| Gloom | 29 | 5% |
+| Wingull | 27-29 | 5% |
+| Kecleon | 26 | 1% |
+
+New with Pokémon from other regions: Liepard and Watchog.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 122
 
 **Surfing**
@@ -927,6 +1711,38 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 123
 
@@ -971,6 +1787,42 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 27 | 20% |
+| Shuppet | 27 | 20% |
+| Oddish | 27-29 | 15% |
+| Cherubi | 28-29 | 14% |
+| Mightyena | 27 | 10% |
+| Tranquill | 29 | 10% |
+| Gloom | 29 | 5% |
+| Wingull | 27-29 | 5% |
+| Kecleon | 26 | 1% |
+
+New with Pokémon from other regions: Cherubi and Tranquill.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 124
 
 **Surfing**
@@ -1002,6 +1854,39 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Mantyke | 26-32 | 1% |
+
+New with Pokémon from other regions: Shellos (East Sea) and Mantyke.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 125
 
@@ -1035,6 +1920,39 @@ New after the Champion: Surskit.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Mantyke | 26-32 | 1% |
+
+New with Pokémon from other regions: Shellos (East Sea) and Mantyke.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 126
 
 **Surfing**
@@ -1067,6 +1985,39 @@ New after the Champion: Surskit.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Mantyke | 26-32 | 1% |
+
+New with Pokémon from other regions: Shellos (East Sea) and Mantyke.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 127
 
 **Surfing**
@@ -1098,6 +2049,39 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Mantyke | 26-32 | 1% |
+
+New with Pokémon from other regions: Shellos (East Sea) and Mantyke.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 128
 
@@ -1132,6 +2116,40 @@ New after the Champion: Surskit.
 | Luvdisc | 32-38 | 40% |
 | Corsola | 32-38 | 15% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Alomomola | 26-32 | 1% |
+
+New with Pokémon from other regions: Frillish and Alomomola.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Luvdisc | 10-32 | 20% |
+| Finneon | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Luvdisc | 32-38 | 40% |
+| Wailmer | 32-38 | 40% |
+| Corsola | 32-38 | 15% |
+| Alomomola | 38-44 | 4% |
+| Lumineon | 44-49 | 1% |
+
+New with Pokémon from other regions: Alomomola and Lumineon.
+
 ## Route 129
 
 **Surfing**
@@ -1164,6 +2182,39 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Wailord | 26-32 | 1% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 130
 
@@ -1203,6 +2254,38 @@ New after the Champion: Surskit.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Route 131
 
 **Surfing**
@@ -1234,6 +2317,38 @@ New after the Champion: Surskit.
 |---|---|---|
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Route 132
 
@@ -1268,6 +2383,38 @@ New after the Champion: Surskit.
 | Sharpedo | 32-38 | 40% |
 | Horsea | 26-32 | 15% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Horsea | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Lumineon.
+
 ## Route 133
 
 **Surfing**
@@ -1300,6 +2447,38 @@ New after the Champion: Surskit.
 | Wailmer | 32-49 | 45% |
 | Sharpedo | 32-38 | 40% |
 | Horsea | 26-32 | 15% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Horsea | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Lumineon.
 
 ## Route 134
 
@@ -1334,6 +2513,38 @@ New after the Champion: Surskit.
 | Sharpedo | 32-38 | 40% |
 | Horsea | 26-32 | 15% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Horsea | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Lumineon.
+
 ## Abandoned Ship Hidden Floor Corridors / Abandoned Ship Rooms B1F
 
 **Surfing**
@@ -1364,6 +2575,36 @@ New after the Champion: Surskit.
 | Tentacool | 26-38 | 80% |
 | Tentacruel | 20-38 | 20% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 69% |
+| Frillish | 5-38 | 30% |
+| Tentacruel | 32-38 | 1% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Tentacool | 10-32 | 20% |
+| Frillish | 10-32 | 20% |
+
+New with Pokémon from other regions: Frillish.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 26-38 | 80% |
+| Tentacruel | 20-38 | 16% |
+| Frillish | 26-32 | 4% |
+
+New with Pokémon from other regions: Frillish.
+
 ## Altering Cave
 
 **Grass and cave floor**
@@ -1390,6 +2631,18 @@ New after the Champion: Surskit.
 | Sableye | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-33 | 40% |
+| Sableye | 32-37 | 30% |
+| Golett | 34-37 | 15% |
+| Swoobat | 35-38 | 9% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Golett and Swoobat.
+
 ## Cave of Origin B1F
 
 **Grass and cave floor**
@@ -1399,6 +2652,18 @@ New after the Champion: Surskit.
 | Zubat | 32-37 | 60% |
 | Sableye | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-33 | 40% |
+| Sableye | 32-37 | 30% |
+| Golett | 34-37 | 15% |
+| Swoobat | 35-38 | 9% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Golett and Swoobat.
 
 ## Cave of Origin B2F
 
@@ -1410,6 +2675,18 @@ New after the Champion: Surskit.
 | Sableye | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-33 | 40% |
+| Sableye | 32-37 | 30% |
+| Golett | 34-37 | 15% |
+| Swoobat | 35-38 | 9% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Golett and Swoobat.
+
 ## Cave of Origin B3F
 
 **Grass and cave floor**
@@ -1420,6 +2697,18 @@ New after the Champion: Surskit.
 | Sableye | 32-37 | 30% |
 | Golbat | 35-39 | 10% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 32-33 | 40% |
+| Sableye | 32-37 | 30% |
+| Golett | 34-37 | 15% |
+| Swoobat | 35-38 | 9% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Golett and Swoobat.
+
 ## Cave of Origin Entrance / Seafloor Cavern Room 1 / Seafloor Cavern Room 2 / Seafloor Cavern Room 3 / Seafloor Cavern Room 4 / Seafloor Cavern Room 5 / Seafloor Cavern Room 8
 
 **Grass and cave floor**
@@ -1428,6 +2717,17 @@ New after the Champion: Surskit.
 |---|---|---|
 | Zubat | 29-38 | 90% |
 | Golbat | 35-39 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 29-38 | 70% |
+| Boldore | 34-37 | 14% |
+| Swoobat | 35 | 10% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Boldore and Swoobat.
 
 ## Desert Underpass
 
@@ -1438,6 +2738,18 @@ New after the Champion: Surskit.
 | Ditto | 41-49 | 50% |
 | Whismur | 38-41 | 34% |
 | Loudred | 41-48 | 16% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Ditto | 41-49 | 46% |
+| Whismur | 38-41 | 24% |
+| Gabite | 44-47 | 14% |
+| Hippowdon | 39 | 10% |
+| Loudred | 41-48 | 6% |
+
+New with Pokémon from other regions: Gabite and Hippowdon.
 
 ## Dewford Town
 
@@ -1469,6 +2781,37 @@ New after the Champion: Surskit.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Ever Grande City
 
@@ -1503,6 +2846,40 @@ New after the Champion: Surskit.
 | Luvdisc | 32-38 | 40% |
 | Corsola | 32-38 | 15% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Alomomola | 26-32 | 1% |
+
+New with Pokémon from other regions: Frillish and Alomomola.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Luvdisc | 10-32 | 20% |
+| Finneon | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Luvdisc | 32-38 | 40% |
+| Wailmer | 32-38 | 40% |
+| Corsola | 32-38 | 15% |
+| Alomomola | 38-44 | 4% |
+| Lumineon | 44-49 | 1% |
+
+New with Pokémon from other regions: Alomomola and Lumineon.
+
 ## Fiery Path
 
 **Grass and cave floor**
@@ -1516,6 +2893,22 @@ New after the Champion: Surskit.
 | Slugma | 15 | 10% |
 | Grimer | 14 | 2% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Numel | 15 | 20% |
+| Koffing | 15 | 20% |
+| Torkoal | 14-16 | 18% |
+| Heatmor | 16 | 10% |
+| Machop | 15 | 10% |
+| Slugma | 15 | 10% |
+| Durant | 16 | 10% |
+| Grimer | 14 | 1% |
+| Larvesta | 14 | 1% |
+
+New with Pokémon from other regions: Heatmor, Durant and Larvesta.
+
 ## Granite Cave 1F
 
 **Grass and cave floor**
@@ -1526,6 +2919,19 @@ New after the Champion: Surskit.
 | Zubat | 7-8 | 30% |
 | Abra | 8 | 10% |
 | Geodude | 6-9 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Makuhita | 6-10 | 40% |
+| Zubat | 7 | 20% |
+| Roggenrola | 8-9 | 14% |
+| Woobat | 8 | 10% |
+| Abra | 8 | 10% |
+| Geodude | 6-9 | 6% |
+
+New with Pokémon from other regions: Roggenrola and Woobat.
 
 ## Granite Cave B1F
 
@@ -1538,6 +2944,21 @@ New after the Champion: Surskit.
 | Abra | 9 | 10% |
 | Makuhita | 10-11 | 10% |
 | Sableye | 9-11 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Aron | 9-10 | 30% |
+| Zubat | 9 | 20% |
+| Roggenrola | 11 | 10% |
+| Woobat | 10 | 10% |
+| Abra | 9 | 10% |
+| Sableye | 9-11 | 10% |
+| Makuhita | 10 | 5% |
+| Ferroseed | 11 | 5% |
+
+New with Pokémon from other regions: Roggenrola, Woobat and Ferroseed.
 
 ## Granite Cave B2F
 
@@ -1557,6 +2978,29 @@ New after the Champion: Surskit.
 | Geodude | 5-20 | 70% |
 | Nosepass | 10-20 | 30% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Aron | 11-12 | 30% |
+| Zubat | 10 | 20% |
+| Sableye | 10-12 | 19% |
+| Ferroseed | 11-12 | 11% |
+| Roggenrola | 10 | 10% |
+| Abra | 10 | 10% |
+
+New with Pokémon from other regions: Ferroseed and Roggenrola.
+
+**Rock Smash, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 10-20 | 61% |
+| Nosepass | 10-20 | 30% |
+| Roggenrola | 5-20 | 9% |
+
+New with Pokémon from other regions: Roggenrola.
+
 ## Granite Cave Steven's Room
 
 **Grass and cave floor**
@@ -1568,6 +3012,19 @@ New after the Champion: Surskit.
 | Abra | 8 | 10% |
 | Aron | 7-8 | 10% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Makuhita | 6-10 | 40% |
+| Zubat | 7 | 20% |
+| Roggenrola | 8-9 | 14% |
+| Woobat | 8 | 10% |
+| Abra | 8 | 10% |
+| Aron | 7-8 | 6% |
+
+New with Pokémon from other regions: Roggenrola and Woobat.
+
 ## Jagged Pass
 
 **Grass and cave floor**
@@ -1577,6 +3034,19 @@ New after the Champion: Surskit.
 | Numel | 20-22 | 55% |
 | Machop | 20-22 | 25% |
 | Spoink | 20-22 | 20% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Numel | 21-22 | 41% |
+| Spoink | 20-22 | 20% |
+| Machop | 21-22 | 15% |
+| Pansear | 20 | 10% |
+| Mienfoo | 20 | 10% |
+| Riolu | 22 | 4% |
+
+New with Pokémon from other regions: Pansear, Mienfoo and Riolu.
 
 ## Lilycove City
 
@@ -1610,6 +3080,37 @@ New after the Champion: Surskit.
 | Wailmer | 26-49 | 85% |
 | Staryu | 26-32 | 15% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (East Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Staryu | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Lumineon.
+
 ## Magma Hideout 1F / Magma Hideout 2F 1R / Magma Hideout 2F 2R / Magma Hideout 2F 3R / Magma Hideout 3F 1R / Magma Hideout 3F 2R / Magma Hideout 3F 3R / Magma Hideout 4F
 
 **Grass and cave floor**
@@ -1619,6 +3120,70 @@ New after the Champion: Surskit.
 | Geodude | 28-32 | 55% |
 | Torkoal | 29-32 | 30% |
 | Graveler | 32-35 | 15% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 28-32 | 35% |
+| Torkoal | 29-32 | 30% |
+| Graveler | 32-35 | 11% |
+| Heatmor | 29 | 10% |
+| Durant | 31 | 10% |
+| Boldore | 33 | 4% |
+
+New with Pokémon from other regions: Heatmor, Durant and Boldore.
+
+## Mauville City
+
+**Surfing**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Wingull | 10-32 | 35% |
+| Pelipper | 26-32 | 5% |
+
+**Old Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 5-10 | 70% |
+| Tentacool | 5-10 | 30% |
+
+**Good Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Tentacool | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+**Super Rod**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 20-49 | 100% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Meteor Falls 1F 1R
 
@@ -1676,6 +3241,46 @@ New after the Champion: Lunatone.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Barboach | 20-49 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 14-20 | 56% |
+| Solrock | 14-18 | 20% |
+| Woobat | 18-19 | 14% |
+| Elgyem | 15 | 10% |
+
+New with Pokémon from other regions: Woobat and Elgyem.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 14-20 | 56% |
+| Woobat | 18-19 | 14% |
+| Elgyem | 15 | 10% |
+| Solrock | 16 | 10% |
+| Lunatone | 14-18 | 10% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-49 | 85% |
+| Basculin (Red-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
 
 ## Meteor Falls 1F 2R
 
@@ -1735,6 +3340,47 @@ New after the Champion: Lunatone.
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 42% |
+| Solrock | 35-42 | 35% |
+| Swoobat | 35-44 | 14% |
+| Elgyem | 38-41 | 9% |
+
+New with Pokémon from other regions: Swoobat and Elgyem.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 42% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+| Swoobat | 35-44 | 14% |
+| Elgyem | 38-41 | 9% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-38 | 80% |
+| Basculin (Red-Striped) | 32-38 | 15% |
+| Whiscash | 38-49 | 5% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
 ## Meteor Falls B1F 1R
 
 **Grass and cave floor**
@@ -1792,6 +3438,47 @@ New after the Champion: Lunatone.
 |---|---|---|
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 42% |
+| Solrock | 35-42 | 35% |
+| Swoobat | 35-44 | 14% |
+| Elgyem | 38-41 | 9% |
+
+New with Pokémon from other regions: Swoobat and Elgyem.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 42% |
+| Solrock | 38-40 | 20% |
+| Lunatone | 35-42 | 15% |
+| Swoobat | 35-44 | 14% |
+| Elgyem | 38-41 | 9% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-38 | 80% |
+| Basculin (Red-Striped) | 32-38 | 15% |
+| Whiscash | 38-49 | 5% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
 
 ## Meteor Falls B1F 2R
 
@@ -1853,6 +3540,49 @@ New after the Champion: Lunatone.
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 26% |
+| Bagon | 26-38 | 25% |
+| Solrock | 38-42 | 25% |
+| Axew | 38 | 20% |
+| Elgyem | 44 | 4% |
+
+New with Pokémon from other regions: Axew and Elgyem.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 26% |
+| Bagon | 26-38 | 25% |
+| Axew | 38 | 20% |
+| Solrock | 38-42 | 15% |
+| Lunatone | 40 | 10% |
+| Elgyem | 44 | 4% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-38 | 80% |
+| Basculin (Red-Striped) | 32-38 | 15% |
+| Whiscash | 38-49 | 5% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
 ## Meteor Falls Steven's Cave
 
 **Grass and cave floor**
@@ -1862,6 +3592,18 @@ New after the Champion: Lunatone.
 | Golbat | 35-44 | 65% |
 | Solrock | 35-42 | 35% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 35-44 | 51% |
+| Solrock | 35-42 | 25% |
+| Fraxure | 35 | 10% |
+| Beheeyem | 40 | 10% |
+| Swoobat | 44 | 4% |
+
+New with Pokémon from other regions: Fraxure, Beheeyem and Swoobat.
+
 ## Mirage Tower 1F / Mirage Tower 2F / Mirage Tower 3F / Mirage Tower 4F
 
 **Grass and cave floor**
@@ -1870,6 +3612,17 @@ New after the Champion: Lunatone.
 |---|---|---|
 | Sandshrew | 20-24 | 50% |
 | Trapinch | 20-24 | 50% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sandshrew | 20-24 | 40% |
+| Trapinch | 20-24 | 36% |
+| Sigilyph | 20-23 | 14% |
+| Golett | 20 | 10% |
+
+New with Pokémon from other regions: Sigilyph and Golett.
 
 ## Mossdeep City
 
@@ -1903,6 +3656,39 @@ New after the Champion: Lunatone.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (East Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 4% |
+| Mantyke | 26-32 | 1% |
+
+New with Pokémon from other regions: Shellos (East Sea) and Mantyke.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Mt. Pyre 1F / Mt. Pyre 2F / Mt. Pyre 3F
 
 **Grass and cave floor**
@@ -1910,6 +3696,16 @@ New after the Champion: Lunatone.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Shuppet | 22-31 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Shuppet | 22-31 | 76% |
+| Litwick | 27-31 | 14% |
+| Yamask | 26 | 10% |
+
+New with Pokémon from other regions: Litwick and Yamask.
 
 ## Mt. Pyre 4F / Mt. Pyre 5F / Mt. Pyre 6F
 
@@ -1919,6 +3715,18 @@ New after the Champion: Lunatone.
 |---|---|---|
 | Shuppet | 22-31 | 90% |
 | Duskull | 26-31 | 10% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Shuppet | 23-31 | 65% |
+| Litwick | 22-27 | 15% |
+| Yamask | 26 | 10% |
+| Duskull | 26-28 | 9% |
+| Spiritomb | 31 | 1% |
+
+New with Pokémon from other regions: Litwick, Yamask and Spiritomb.
 
 ## Mt. Pyre Exterior
 
@@ -1941,6 +3749,31 @@ New after the Champion: Lunatone.
 
 New after the Champion: Meditite.
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Shuppet | 28-31 | 50% |
+| Vulpix | 26-31 | 20% |
+| Drifloon | 29 | 10% |
+| Vullaby | 28 | 10% |
+| Wingull | 27-29 | 6% |
+| Rufflet | 28 | 4% |
+
+New with Pokémon from other regions: Drifloon, Vullaby and Rufflet.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Meditite | 28-31 | 30% |
+| Shuppet | 28 | 20% |
+| Vulpix | 26-31 | 20% |
+| Drifloon | 29 | 10% |
+| Vullaby | 28 | 10% |
+| Wingull | 27-29 | 6% |
+| Rufflet | 28 | 4% |
+
 ## Mt. Pyre Summit
 
 **Grass and cave floor**
@@ -1951,6 +3784,18 @@ New after the Champion: Meditite.
 | Duskull | 27-32 | 13% |
 | Chimecho | 29 | 2% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Shuppet | 24-31 | 65% |
+| Chingling | 27 | 14% |
+| Bronzor | 32 | 10% |
+| Duskull | 29-32 | 9% |
+| Chimecho | 29 | 2% |
+
+New with Pokémon from other regions: Chingling and Bronzor.
+
 ## New Mauville Entrance
 
 **Grass and cave floor**
@@ -1959,6 +3804,17 @@ New after the Champion: Meditite.
 |---|---|---|
 | Voltorb | 22-27 | 50% |
 | Magnemite | 22-27 | 50% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magnemite | 22-27 | 40% |
+| Voltorb | 22-27 | 36% |
+| Klink | 22-26 | 14% |
+| Joltik | 23 | 10% |
+
+New with Pokémon from other regions: Klink and Joltik.
 
 ## New Mauville Inside
 
@@ -1970,6 +3826,20 @@ New after the Champion: Meditite.
 | Magnemite | 22-27 | 49% |
 | Electrode | 27 | 1% |
 | Magneton | 27 | 1% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Voltorb | 23-27 | 35% |
+| Magnemite | 24-27 | 35% |
+| Klink | 22-26 | 14% |
+| Joltik | 23 | 10% |
+| Rotom | 22 | 4% |
+| Electrode | 27 | 1% |
+| Magneton | 27 | 1% |
+
+New with Pokémon from other regions: Klink, Joltik and Rotom.
 
 ## Pacifidlog Town
 
@@ -2003,6 +3873,38 @@ New after the Champion: Meditite.
 | Wailmer | 26-49 | 60% |
 | Sharpedo | 32-38 | 40% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Frillish | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 32-49 | 41% |
+| Sharpedo | 32-38 | 40% |
+| Finneon | 26-32 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Petalburg City
 
 **Surfing**
@@ -2032,6 +3934,35 @@ New after the Champion: Meditite.
 |---|---|---|
 | Corphish | 20-49 | 100% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Marill | 5-38 | 69% |
+| Tympole | 10-20 | 30% |
+| Oshawott | 5-10 | 1% |
+
+New with Pokémon from other regions: Tympole and Oshawott.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Blue-Striped) | 10-32 | 20% |
+| Corphish | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Corphish | 26-49 | 85% |
+| Basculin (Blue-Striped) | 20-26 | 15% |
+
+New with Pokémon from other regions: Basculin (Blue-Striped).
+
 ## Petalburg Woods
 
 **Grass and cave floor**
@@ -2046,6 +3977,24 @@ New after the Champion: Meditite.
 | Taillow | 5-6 | 5% |
 | Slakoth | 5-6 | 5% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Poochyena | 5 | 20% |
+| Wurmple | 5 | 20% |
+| Shroomish | 5 | 10% |
+| Sewaddle | 6 | 10% |
+| Silcoon | 5 | 10% |
+| Cascoon | 5 | 10% |
+| Venipede | 6 | 5% |
+| Burmy (Plant Cloak) | 6 | 5% |
+| Slakoth | 5-6 | 5% |
+| Taillow | 5 | 4% |
+| Turtwig | 6 | 1% |
+
+New with Pokémon from other regions: Sewaddle, Venipede, Burmy (Plant Cloak) and Turtwig.
+
 ## Rusturf Tunnel
 
 **Grass and cave floor**
@@ -2053,6 +4002,16 @@ New after the Champion: Meditite.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Whismur | 5-8 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Whismur | 5-8 | 76% |
+| Drilbur | 6-8 | 14% |
+| Timburr | 7 | 10% |
+
+New with Pokémon from other regions: Drilbur and Timburr.
 
 ## Safari Zone North
 
@@ -2072,6 +4031,30 @@ New after the Champion: Meditite.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Geodude | 5-32 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Phanpy | 28 | 20% |
+| Oddish | 28 | 20% |
+| Blitzle | 31 | 15% |
+| Gloom | 31-33 | 15% |
+| Deerling | 31 | 10% |
+| Natu | 28 | 10% |
+| Xatu | 31-33 | 5% |
+| Heracross | 28-31 | 5% |
+
+New with Pokémon from other regions: Blitzle and Deerling.
+
+**Rock Smash, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Geodude | 10-32 | 70% |
+| Dwebble | 5-10 | 30% |
+
+New with Pokémon from other regions: Dwebble.
 
 ## Safari Zone Northeast
 
@@ -2135,6 +4118,41 @@ New after the Champion: Meditite.
 | Goldeen | 26-38 | 80% |
 | Seaking | 26-44 | 20% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Rhyhorn | 28 | 20% |
+| Oddish | 28 | 20% |
+| Bouffalant | 31 | 15% |
+| Gloom | 31-33 | 15% |
+| Skorupi | 31 | 10% |
+| Doduo | 28 | 10% |
+| Dodrio | 31-33 | 5% |
+| Pinsir | 28-31 | 5% |
+
+New with Pokémon from other regions: Bouffalant and Skorupi.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Psyduck | 20-38 | 65% |
+| Palpitoad | 20-32 | 30% |
+| Golduck | 26-44 | 5% |
+
+New with Pokémon from other regions: Palpitoad.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Goldeen | 26-38 | 80% |
+| Stunfisk | 32-38 | 15% |
+| Seaking | 26-44 | 5% |
+
+New with Pokémon from other regions: Stunfisk.
+
 ## Safari Zone South
 
 **Grass and cave floor**
@@ -2148,6 +4166,22 @@ New after the Champion: Meditite.
 | Wobbuffet | 28-31 | 10% |
 | Gloom | 26 | 5% |
 | Pikachu | 26-28 | 5% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Oddish | 26 | 20% |
+| Deerling | 28 | 20% |
+| Girafarig | 26-28 | 20% |
+| Natu | 26 | 10% |
+| Doduo | 26 | 10% |
+| Wobbuffet | 28-31 | 6% |
+| Gloom | 26 | 5% |
+| Pikachu | 26-28 | 5% |
+| Croagunk | 28 | 4% |
+
+New with Pokémon from other regions: Deerling and Croagunk.
 
 ## Safari Zone Southeast
 
@@ -2236,6 +4270,41 @@ New after the Champion: Meditite.
 | Goldeen | 26-38 | 80% |
 | Seaking | 26-44 | 20% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Oddish | 26 | 20% |
+| Croagunk | 28 | 20% |
+| Girafarig | 26-28 | 20% |
+| Natu | 26 | 10% |
+| Doduo | 28 | 10% |
+| Wobbuffet | 28-31 | 6% |
+| Gloom | 26 | 5% |
+| Pikachu | 26-28 | 5% |
+| Carnivine | 28 | 4% |
+
+New with Pokémon from other regions: Croagunk and Carnivine.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Psyduck | 20-38 | 70% |
+| Stunfisk | 20-32 | 30% |
+
+New with Pokémon from other regions: Stunfisk.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Goldeen | 26-38 | 80% |
+| Stunfisk | 32-38 | 15% |
+| Seaking | 26-44 | 5% |
+
+New with Pokémon from other regions: Stunfisk.
+
 ## Seafloor Cavern Entrance
 
 **Surfing**
@@ -2266,6 +4335,37 @@ New after the Champion: Meditite.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Zubat | 5-38 | 30% |
+| Frillish | 32-38 | 5% |
+| Golbat | 32-38 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Seafloor Cavern Room 6 / Seafloor Cavern Room 7
 
@@ -2304,6 +4404,48 @@ New after the Champion: Meditite.
 | Pokémon | Level | Chance |
 |---|---|---|
 | Wailmer | 20-49 | 100% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 29-38 | 70% |
+| Boldore | 34-37 | 14% |
+| Swoobat | 35 | 10% |
+| Golbat | 35-39 | 6% |
+
+New with Pokémon from other regions: Boldore and Swoobat.
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Zubat | 5-38 | 30% |
+| Frillish | 32-38 | 5% |
+| Golbat | 32-38 | 5% |
+
+New with Pokémon from other regions: Frillish.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
 
 ## Shoal Cave Low Tide Entrance Room
 
@@ -2344,6 +4486,38 @@ New after the Champion: Meditite.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Spheal | 27-34 | 36% |
+| Zubat | 27-34 | 35% |
+| Vanillite | 29-34 | 14% |
+| Cubchoo | 32 | 10% |
+| Golbat | 34 | 5% |
+
+New with Pokémon from other regions: Vanillite and Cubchoo.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Shoal Cave Low Tide Ice Room
 
 **Grass and cave floor**
@@ -2354,6 +4528,20 @@ New after the Champion: Meditite.
 | Zubat | 27-32 | 40% |
 | Snorunt | 27-32 | 10% |
 | Golbat | 32-34 | 5% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Zubat | 27-32 | 30% |
+| Spheal | 27-29 | 30% |
+| Vanillite | 29 | 10% |
+| Cubchoo | 32 | 10% |
+| Snorunt | 27-32 | 10% |
+| Cryogonal | 34 | 5% |
+| Golbat | 32-34 | 5% |
+
+New with Pokémon from other regions: Vanillite, Cubchoo and Cryogonal.
 
 ## Shoal Cave Low Tide Inner Room
 
@@ -2394,6 +4582,38 @@ New after the Champion: Meditite.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Spheal | 27-34 | 36% |
+| Zubat | 27-34 | 35% |
+| Vanillite | 29-34 | 14% |
+| Cubchoo | 32 | 10% |
+| Golbat | 34 | 5% |
+
+New with Pokémon from other regions: Vanillite and Cubchoo.
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Shoal Cave Low Tide Lower Room
 
 **Grass and cave floor**
@@ -2404,6 +4624,18 @@ New after the Champion: Meditite.
 | Zubat | 27-34 | 45% |
 | Golbat | 34 | 5% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Spheal | 27-34 | 36% |
+| Zubat | 27-34 | 35% |
+| Vanillite | 29-34 | 14% |
+| Cubchoo | 32 | 10% |
+| Golbat | 34 | 5% |
+
+New with Pokémon from other regions: Vanillite and Cubchoo.
+
 ## Shoal Cave Low Tide Stairs Room
 
 **Grass and cave floor**
@@ -2413,6 +4645,18 @@ New after the Champion: Meditite.
 | Spheal | 27-34 | 50% |
 | Zubat | 27-34 | 45% |
 | Golbat | 34 | 5% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Spheal | 27-34 | 36% |
+| Zubat | 27-34 | 35% |
+| Vanillite | 29-34 | 14% |
+| Cubchoo | 32 | 10% |
+| Golbat | 34 | 5% |
+
+New with Pokémon from other regions: Vanillite and Cubchoo.
 
 ## Sky Pillar 1F
 
@@ -2425,6 +4669,19 @@ New after the Champion: Meditite.
 | Claydol | 39-41 | 25% |
 | Banette | 40-41 | 15% |
 
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sableye | 35-37 | 30% |
+| Golbat | 37 | 20% |
+| Claydol | 39-41 | 16% |
+| Bronzong | 38-41 | 14% |
+| Banette | 40 | 10% |
+| Golurk | 39-41 | 10% |
+
+New with Pokémon from other regions: Bronzong and Golurk.
+
 ## Sky Pillar 3F
 
 **Grass and cave floor**
@@ -2435,6 +4692,19 @@ New after the Champion: Meditite.
 | Golbat | 37-38 | 30% |
 | Claydol | 39-41 | 25% |
 | Banette | 40-41 | 15% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sableye | 35-37 | 30% |
+| Golbat | 37 | 20% |
+| Claydol | 39-41 | 16% |
+| Bronzong | 38-41 | 14% |
+| Banette | 40 | 10% |
+| Golurk | 39-41 | 10% |
+
+New with Pokémon from other regions: Bronzong and Golurk.
 
 ## Sky Pillar 5F
 
@@ -2447,6 +4717,21 @@ New after the Champion: Meditite.
 | Claydol | 39-40 | 19% |
 | Banette | 40-41 | 15% |
 | Altaria | 41-42 | 6% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sableye | 35-37 | 30% |
+| Golbat | 37 | 20% |
+| Bronzong | 38 | 10% |
+| Claydol | 39 | 10% |
+| Banette | 40 | 10% |
+| Golurk | 40-41 | 9% |
+| Altaria | 41-42 | 6% |
+| Sigilyph | 39 | 5% |
+
+New with Pokémon from other regions: Bronzong, Golurk and Sigilyph.
 
 ## Slateport City
 
@@ -2479,6 +4764,37 @@ New after the Champion: Meditite.
 |---|---|---|
 | Wailmer | 20-49 | 100% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Tentacool | 5-38 | 60% |
+| Shellos (West Sea) | 10-32 | 30% |
+| Wingull | 15-26 | 5% |
+| Pelipper | 26-32 | 5% |
+
+New with Pokémon from other regions: Shellos (West Sea).
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Finneon | 10-32 | 20% |
+| Wailmer | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Wailmer | 26-49 | 81% |
+| Finneon | 20-26 | 15% |
+| Lumineon | 38-44 | 4% |
+
+New with Pokémon from other regions: Finneon and Lumineon.
+
 ## Sootopolis City
 
 **Surfing**
@@ -2507,6 +4823,25 @@ New after the Champion: Meditite.
 | Magikarp | 32-38 | 80% |
 | Gyarados | 5-49 | 20% |
 
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 80% |
+| Finneon | 10-32 | 20% |
+
+New with Pokémon from other regions: Finneon.
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 32-38 | 80% |
+| Gyarados | 5-49 | 16% |
+| Lumineon | 38-49 | 4% |
+
+New with Pokémon from other regions: Lumineon.
+
 ## Underwater 1
 
 **Surfing**
@@ -2517,6 +4852,18 @@ New after the Champion: Meditite.
 | Chinchou | 20-32 | 30% |
 | Relicanth | 32-38 | 5% |
 
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Clamperl | 20-32 | 60% |
+| Chinchou | 20-32 | 30% |
+| Alomomola | 32-38 | 5% |
+| Relicanth | 32-38 | 4% |
+| Tynamo | 32-38 | 1% |
+
+New with Pokémon from other regions: Alomomola and Tynamo.
+
 ## Underwater 2
 
 **Surfing**
@@ -2526,6 +4873,18 @@ New after the Champion: Meditite.
 | Clamperl | 20-38 | 65% |
 | Chinchou | 20-32 | 30% |
 | Relicanth | 32-38 | 5% |
+
+**Surfing, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Clamperl | 20-32 | 60% |
+| Chinchou | 20-32 | 30% |
+| Alomomola | 32-38 | 5% |
+| Relicanth | 32-38 | 4% |
+| Tynamo | 32-38 | 1% |
+
+New with Pokémon from other regions: Alomomola and Tynamo.
 
 ## Victory Road 1F
 
@@ -2541,6 +4900,24 @@ New after the Champion: Meditite.
 | Makuhita | 39 | 10% |
 | Aron | 39 | 5% |
 | Whismur | 39 | 5% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Boldore | 44 | 20% |
+| Hariyama | 44 | 20% |
+| Lairon | 44 | 10% |
+| Loudred | 44 | 10% |
+| Zubat | 39 | 10% |
+| Makuhita | 39 | 10% |
+| Golbat | 41 | 5% |
+| Gurdurr | 41 | 5% |
+| Whismur | 39 | 5% |
+| Aron | 39 | 4% |
+| Druddigon | 39 | 1% |
+
+New with Pokémon from other regions: Boldore, Gurdurr and Druddigon.
 
 ## Victory Road B1F
 
@@ -2571,6 +4948,45 @@ New after the Champion: Medicham.
 |---|---|---|
 | Graveler | 32-44 | 70% |
 | Geodude | 32-44 | 30% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 44-46 | 25% |
+| Hariyama | 44 | 20% |
+| Lairon | 44 | 20% |
+| Excadrill | 41-46 | 14% |
+| Throh | 41 | 10% |
+| Sawk | 46 | 5% |
+| Mawile | 41 | 5% |
+| Deino | 46 | 1% |
+
+New with Pokémon from other regions: Excadrill, Throh, Sawk and Deino.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Golbat | 44-46 | 25% |
+| Hariyama | 44 | 20% |
+| Excadrill | 41-46 | 14% |
+| Lairon | 44 | 10% |
+| Medicham | 44 | 10% |
+| Throh | 41 | 10% |
+| Sawk | 46 | 5% |
+| Mawile | 41 | 5% |
+| Deino | 46 | 1% |
+
+**Rock Smash, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Graveler | 32-44 | 61% |
+| Geodude | 32-44 | 30% |
+| Crustle | 38-44 | 9% |
+
+New with Pokémon from other regions: Crustle.
 
 ## Victory Road B2F
 
@@ -2622,6 +5038,51 @@ New after the Champion: Medicham.
 |---|---|---|
 | Barboach | 26-38 | 80% |
 | Whiscash | 32-49 | 20% |
+
+**Grass and cave floor, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sableye | 44-48 | 35% |
+| Lairon | 44-48 | 21% |
+| Golbat | 44 | 20% |
+| Fraxure | 46 | 14% |
+| Mienfoo | 46-48 | 9% |
+| Mawile | 48 | 1% |
+
+New with Pokémon from other regions: Fraxure and Mienfoo.
+
+**Grass and cave floor, with Pokémon from other regions, after the Champion**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Sableye | 44-48 | 35% |
+| Golbat | 44 | 20% |
+| Fraxure | 46 | 14% |
+| Lairon | 44-48 | 11% |
+| Medicham | 44 | 10% |
+| Mienfoo | 46-48 | 9% |
+| Mawile | 48 | 1% |
+
+**Good Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Magikarp | 10-32 | 60% |
+| Basculin (Red-Striped) | 10-32 | 20% |
+| Barboach | 10-32 | 20% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
+
+**Super Rod, with Pokémon from other regions**
+
+| Pokémon | Level | Chance |
+|---|---|---|
+| Barboach | 26-38 | 80% |
+| Basculin (Red-Striped) | 32-38 | 15% |
+| Whiscash | 38-49 | 5% |
+
+New with Pokémon from other regions: Basculin (Red-Striped).
 
 ## Safari Zone rules
 

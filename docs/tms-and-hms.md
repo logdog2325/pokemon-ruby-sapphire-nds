@@ -68,6 +68,21 @@ Hoenn's TMs and HMs are Black 2's items. Black 2 numbers its TMs differently, so
 | HM07 | Waterfall | HM05 Waterfall |
 | HM08 | Dive | HM06 Dive |
 
+## Mauville Game Corner
+
+Black 2 has no Coins, slot machines or roulette, so the two prize ladies at the Mauville Game Corner's counter sell Gen 3's prizes for money instead: 20 Poké Dollars for every Coin the prize cost in the original games (the same prizes in Ruby, Sapphire and Emerald). No Coin Case needed. The left lady sells the TMs, the right one the Dolls (decorations for your Secret Base, sent to your PC).
+
+| Prize | Gen 3 price | Price here |
+|---|---|---|
+| Treecko Doll | 1,000 Coins | $20,000 |
+| Torchic Doll | 1,000 Coins | $20,000 |
+| Mudkip Doll | 1,000 Coins | $20,000 |
+| TM32 Double Team | 1,500 Coins | $30,000 |
+| TM29 Psychic | 3,500 Coins | $70,000 |
+| TM35 Flamethrower | 4,000 Coins | $80,000 |
+| TM24 Thunderbolt | 4,000 Coins | $80,000 |
+| TM13 Ice Beam | 4,000 Coins | $80,000 |
+
 ## The new TMs
 
 | TM | Move | Was (Gen 3) |

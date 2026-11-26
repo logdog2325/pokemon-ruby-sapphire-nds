@@ -5,6 +5,8 @@
 
 The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, and the team bosses. Levels above 24 are raised to go with the Exp. Share. Your rival's team depends on the starter you chose, so each rival battle is listed once per starter (you meet only one of each).
 
+**Pokémon from other regions** (YES to Professor Birch's eighth question, or the lab worker in Birch's lab: [options](options.md)): the Gym Leaders, the Elite Four and the Champion bring Pokémon from Sinnoh and Unova too, in the teams marked "with Pokémon from other regions". Each keeps its type, the number of Pokémon, their levels and held items; Tate and Liza keep their Solrock and Lunatone.
+
 ## Gym Leaders
 
 ### Roxanne
@@ -16,6 +18,13 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Geodude | 14 |  | Tackle, Defense Curl, Rock Throw, Rock Tomb |
 | Nosepass | 15 |  | Tackle, Harden, Rock Throw, Rock Tomb |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Roggenrola | 14 |  | Tackle, Harden, Sand-Attack, Rock Tomb |
+| Nosepass | 15 |  | Tackle, Harden, Rock Throw, Rock Tomb |
+
 ### Brawly
 
 **Battle 1 (Dewford Town Gym)**
@@ -23,6 +32,13 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Pokémon | Level | Held item | Moves |
 |---|---|---|---|
 | Machop | 17 |  | Leer, Karate Chop, Seismic Toss, Bulk Up |
+| Makuhita | 18 |  | Arm Thrust, Knock Off, Sand-Attack, Bulk Up |
+
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Timburr | 17 |  | Low Kick, Rock Throw, Wake-Up Slap, Bulk Up |
 | Makuhita | 18 |  | Arm Thrust, Knock Off, Sand-Attack, Bulk Up |
 
 ### Wattson
@@ -35,6 +51,14 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Voltorb | 20 |  | Rollout, Selfdestruct, Spark, SonicBoom |
 | Magneton | 23 |  | Supersonic, SonicBoom, Shock Wave, Thunder Wave |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Magnemite | 22 |  | Supersonic, SonicBoom, ThunderShock, Thunder Wave |
+| Rotom | 20 |  | Shock Wave, Thunder Wave, Confuse Ray, Astonish |
+| Magneton | 23 |  | Supersonic, SonicBoom, Shock Wave, Thunder Wave |
+
 ### Flannery
 
 **Battle 1 (Lavaridge Town Gym 1F)**
@@ -42,6 +66,14 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Pokémon | Level | Held item | Moves |
 |---|---|---|---|
 | Slugma | 27 |  | Overheat, Smog, Light Screen, Sunny Day |
+| Slugma | 27 |  | Flamethrower, Rock Slide, Light Screen, Sunny Day |
+| Torkoal | 29 |  | Overheat, Body Slam, Flail, Attract |
+
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Darumaka | 27 |  | Fire Fang, Headbutt, Uproar, Overheat |
 | Slugma | 27 |  | Flamethrower, Rock Slide, Light Screen, Sunny Day |
 | Torkoal | 29 |  | Overheat, Body Slam, Flail, Attract |
 
@@ -55,6 +87,14 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Vigoroth | 32 |  | Slash, Faint Attack, Facade, Encore |
 | Slaking | 33 |  | Focus Punch, Slack Off, Facade, Faint Attack |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Slaking | 29 |  | Encore, Facade, Yawn, Faint Attack |
+| Stoutland | 32 |  | Crunch, Take Down, Retaliate, Facade |
+| Slaking | 33 |  | Focus Punch, Slack Off, Facade, Faint Attack |
+
 ### Winona
 
 **Battle 1 (Fortree City Gym)**
@@ -63,6 +103,15 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 |---|---|---|---|
 | Swellow | 33 |  | Quick Attack, Aerial Ace, Double Team, Endeavor |
 | Pelipper | 32 |  | Water Gun, Supersonic, Protect, Aerial Ace |
+| Skarmory | 34 |  | Sand-Attack, Fury Attack, Steel Wing, Aerial Ace |
+| Altaria | 35 |  | Earthquake, DragonBreath, Dragon Dance, Aerial Ace |
+
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Unfezant | 33 |  | Air Cutter, Aerial Ace, Quick Attack, Detect |
+| Swanna | 32 |  | BubbleBeam, Wing Attack, Aerial Ace, FeatherDance |
 | Skarmory | 34 |  | Sand-Attack, Fury Attack, Steel Wing, Aerial Ace |
 | Altaria | 35 |  | Earthquake, DragonBreath, Dragon Dance, Aerial Ace |
 
@@ -94,6 +143,16 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Seaking | 46 |  | Water Pulse, Rain Dance, Fury Attack, Horn Drill |
 | Milotic | 47 |  | Water Pulse, Twister, Recover, Ice Beam |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Alomomola | 44 |  | Water Pulse, Wish, Protect, Heal Pulse |
+| Whiscash | 46 |  | Rain Dance, Water Pulse, Amnesia, Earthquake |
+| Jellicent | 44 |  | Water Pulse, Night Shade, Recover, Hex |
+| Lumineon | 46 |  | Water Pulse, Silver Wind, U-turn, Safeguard |
+| Milotic | 47 |  | Water Pulse, Twister, Recover, Ice Beam |
+
 ## Elite Four
 
 ### Sidney
@@ -108,6 +167,16 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Sharpedo | 53 |  | Crunch, Swagger, Surf, Slash |
 | Absol | 54 | Sitrus Berry | Aerial Ace, Snatch, Swords Dance, Slash |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Mightyena | 51 |  | Roar, Take Down, Sand-Attack, Crunch |
+| Shiftry | 53 |  | Fake Out, Double Team, Swagger, Extrasensory |
+| Krookodile | 51 |  | Crunch, Earthquake, Foul Play, Swagger |
+| Scrafty | 53 |  | Crunch, Hi Jump Kick, Scary Face, Fake Out |
+| Absol | 54 | Sitrus Berry | Aerial Ace, Snatch, Swords Dance, Slash |
+
 ### Phoebe
 
 **Battle 1 (Ever Grande City Phoebe's Room)**
@@ -120,6 +189,16 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Banette | 54 |  | Shadow Ball, Psychic, Toxic, Skill Swap |
 | Dusclops | 56 | Sitrus Berry | Shadow Ball, Ice Beam, Confuse Ray, Earthquake |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Chandelure | 53 |  | Shadow Ball, Flamethrower, Confuse Ray, Will-O-Wisp |
+| Banette | 54 |  | Shadow Ball, Spite, Will-O-Wisp, Faint Attack |
+| Sableye | 55 |  | Shadow Ball, Psychic, Attract, Faint Attack |
+| Spiritomb | 54 |  | Shadow Ball, Dark Pulse, Confuse Ray, Sucker Punch |
+| Dusknoir | 56 | Sitrus Berry | Shadow Punch, Ice Punch, Confuse Ray, Future Sight |
+
 ### Glacia
 
 **Battle 1 (Ever Grande City Glacia's Room)**
@@ -129,6 +208,16 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Glalie | 55 |  | Light Screen, Crunch, Hail, Ice Beam |
 | Sealeo | 55 |  | Surf, Body Slam, Hail, Ice Ball |
 | Sealeo | 57 |  | Attract, Dive, Hail, Blizzard |
+| Glalie | 57 |  | Shadow Ball, Crunch, Hail, Ice Beam |
+| Walrein | 59 | Sitrus Berry | Surf, Body Slam, Blizzard, Sheer Cold |
+
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Froslass | 55 |  | Ice Beam, Shadow Ball, Confuse Ray, Hail |
+| Mamoswine | 55 |  | Earthquake, Ice Shard, Blizzard, Hail |
+| Abomasnow | 57 |  | Blizzard, Wood Hammer, Ice Shard, Ingrain |
 | Glalie | 57 |  | Shadow Ball, Crunch, Hail, Ice Beam |
 | Walrein | 59 | Sitrus Berry | Surf, Body Slam, Blizzard, Sheer Cold |
 
@@ -144,6 +233,16 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Flygon | 59 |  | Flamethrower, Crunch, DragonBreath, Sand-Attack |
 | Salamence | 61 | Sitrus Berry | Flamethrower, Dragon Claw, Fly, Crunch |
 
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Haxorus | 57 |  | Dragon Claw, Dragon Dance, Earthquake, X-Scissor |
+| Altaria | 60 |  | Take Down, DragonBreath, Dragon Dance, Refresh |
+| Flygon | 59 |  | Dig, DragonBreath, Fly, Sandstorm |
+| Garchomp | 59 |  | Dragon Claw, Earthquake, Crunch, Dragon Rush |
+| Salamence | 61 | Sitrus Berry | Flamethrower, Dragon Claw, Fly, Crunch |
+
 ## Champion
 
 ### Steven
@@ -156,6 +255,17 @@ The teams of the Gym Leaders, the Elite Four, the Champion, your rival, Wally, a
 | Claydol | 61 |  | Reflect, Light Screen, AncientPower, Earthquake |
 | Aggron | 62 |  | Thunder, Earthquake, SolarBeam, Dragon Claw |
 | Cradily | 62 |  | Giga Drain, AncientPower, Sludge Bomb, Confuse Ray |
+| Armaldo | 62 |  | Water Pulse, AncientPower, Aerial Ace, Slash |
+| Metagross | 64 | Sitrus Berry | Earthquake, Psychic, Meteor Mash, Hyper Beam |
+
+**Battle 1, with Pokémon from other regions**
+
+| Pokémon | Level | Held item | Moves |
+|---|---|---|---|
+| Skarmory | 63 |  | Toxic, Aerial Ace, Spikes, Steel Wing |
+| Bronzong | 61 |  | Gyro Ball, Extrasensory, Earthquake, Reflect |
+| Aggron | 62 |  | Thunder, Earthquake, SolarBeam, Dragon Claw |
+| Ferrothorn | 62 |  | Power Whip, Gyro Ball, Leech Seed, Iron Defense |
 | Armaldo | 62 |  | Water Pulse, AncientPower, Aerial Ace, Slash |
 | Metagross | 64 | Sitrus Berry | Earthquake, Psychic, Meteor Mash, Hyper Beam |
 

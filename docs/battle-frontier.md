@@ -7,7 +7,7 @@ Pokémon Emerald NDS has the whole Battle Frontier: the Battle Tower, Dome, Pala
 
 ## Rules for every facility
 
-- **Level 50**: Pokémon of level 50 or lower. **Open Level**: any level.
+- **Level 50**: in the Battle Tower, Dome, Palace and Arena any level may enter. A Pokémon above Lv. 50 battles at Lv. 50, as in Black 2's Battle Subway and PWT, and keeps its own level after the battle (the Frontier gives no Exp. Points). In the Battle Pike and the Battle Pyramid, where your Pokémon keep their HP, status and items from one battle to the next, only Pokémon of level 50 or lower, as in Emerald. The Battle Factory's rentals are Lv. 50. **Open Level**: any level.
 - **Three Pokémon**, no Eggs.
 - **No duplicates**: no species twice, and no held item twice (Pokémon without items are fine).
 - **Banned Pokémon**: Mew, Mewtwo, Ho-Oh, Lugia, Celebi, Kyogre, Groudon, Rayquaza, Jirachi, Deoxys, Dialga, Palkia, Giratina, Phione, Manaphy, Darkrai, Shaymin, Arceus, Victini, Reshiram, Zekrom, Kyurem, Keldeo, Meloetta, Genesect.

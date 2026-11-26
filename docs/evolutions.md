@@ -36,8 +36,27 @@ Every Pokémon that evolves by trading can also evolve without a trade here (tra
 | Shelmet | Accelgor | level up with Karrablast in the party |
 | Shelmet | Accelgor | level up with Escavalier in the party |
 
-Items with no other source in Hoenn (and the Metal Coat and Dragon Scale) are sold at the Lilycove Department Store, 3F (the right clerk): Up-Grade, Dubious Disc, Protector, Electirizer, Magmarizer, Reaper Cloth, Prism Scale, Metal Coat, Dragon Scale, Shiny Stone, Dusk Stone, Dawn Stone, Oval Stone.
+## Where to buy evolution items
 
-## Evolution stones
+The Lilycove Department Store, 3F (the right clerk, beside the X items), sells every evolution stone, the Razor Claw and Razor Fang, and the trade evolution items, to everyone and at any time:
 
-The Fire, Water, Thunder, Leaf, Moon and Sun Stones are found in Hoenn. The Shiny, Dusk and Dawn Stones and the Oval Stone are not, so the Lilycove Department Store sells them for 2,100 each. Use a stone from the Bag; a Happiny evolves when it levels up during the day holding an Oval Stone. The Razor Claw and Razor Fang (held at night, Weavile and Gliscor) are sold for 8 BP in the Pokémon World Tournament lobby.
+- Fire Stone, Water Stone, Thunderstone, Leaf Stone, Moon Stone, Sun Stone, Shiny Stone, Dusk Stone, Dawn Stone and Oval Stone: 2,100 each.
+- Razor Claw and Razor Fang: 2,100 each.
+- Up-Grade, Dubious Disc, Protector, Electirizer, Magmarizer, Reaper Cloth and Dragon Scale: 2,100 each; Prism Scale: 500 each; Metal Coat: 100 each.
+
+## Evolution stones and held items
+
+Use a stone from the Bag. A Happiny evolves when it levels up during the day holding an Oval Stone. A Gligar holding a Razor Fang and a Sneasel holding a Razor Claw evolve (into Gliscor and Weavile) when they level up at night. Hoenn also has some stones in item balls, and the Razor Claw and Razor Fang are prizes for 8 BP at the Pokémon World Tournament too.
+
+## Evolutions in a special place
+
+These Pokémon evolve when they level up in one place (Black 2's own rule, the places are ORAS's); a Rare Candy used there counts too:
+
+| Pokémon | Evolves into | Where |
+|---|---|---|
+| Magneton | Magnezone | Level up in New Mauville's magnetic field: its entrance room (surf east on Route 110) or the generator building behind the door Wattson's Basement Key opens |
+| Nosepass | Probopass | Level up in New Mauville's magnetic field: its entrance room (surf east on Route 110) or the generator building behind the door Wattson's Basement Key opens |
+| Eevee | Leafeon | Level up anywhere in Petalburg Woods (its Moss Rock) |
+| Eevee | Glaceon | Level up in Shoal Cave's ice room, the frozen floor at the bottom (B1F; its Ice Rock) |
+
+No Eevee lives in Hoenn: Leafeon and Glaceon need one traded in.

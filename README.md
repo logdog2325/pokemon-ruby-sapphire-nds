@@ -20,6 +20,12 @@ Pokémon Ruby, Sapphire and Emerald, remade on the Nintendo DS inside Pokémon B
 
 **Pokémon Emerald NDS:** Team Magma and Team Aqua both chase their legendary Pokémon, and only Rayquaza can stop Groudon and Kyogre's clash over Sootopolis. Emerald's own maps, trainers, Gym puzzles and wild Pokémon, Steven's tag battle at the Space Center, Juan as Sootopolis' Gym Leader, and the Battle Frontier with all seven facilities.
 
+## New in Sapphire/Ruby NDS v21.0 and Emerald NDS v4.0
+
+- **Pokémon from other regions:** a new question from Professor Birch at the start. Say yes and Gen 4 and Gen 5 Pokémon live in every route, cave and sea alongside Hoenn's own, the Gym Leaders, Elite Four and Champion bring newer Pokémon of their types, and the Gen 4/5 starters hide very rarely. Already playing? An aide in Birch's lab switches it on.
+- **A cleaner Hoenn:** no more people vanishing at weather lines, their own doors for Gyms, Marts and big buildings, one-tile signs, soft sand edges, real cave waterfalls and smoother loading on the Bike.
+- **Also new:** the Mauville Game Corner's prizes (Flamethrower included) are sold for money, Lilycove's Department Store sells the evolution stones and the Razor Fang and Claw, and Emerald's Level 50 Frontier battles take higher-level Pokémon at level 50. Fixed: the Mauville Gym after Wattson, the Trick House tent crash and Granite Cave's muddy slope.
+
 ## New in Sapphire/Ruby NDS v20.2 and Emerald NDS v3.2
 
 - **Safari battles, as in Gen 3:** in the Safari Zone you choose Ball, Pokéblock, Go Near or Run instead of battling, with Gen 3's Safari Ball count on the top screen. The Safari Ball catches 1.5 times as well as a Poké Ball (it caught like a Poké Ball before), and DexNav Pokémon there keep their bonuses ([rules](docs/wild-pokemon-sapphire.md#safari-zone-rules)).
@@ -51,6 +57,7 @@ Already playing? Your save carries over: talk to Professor Birch in his lab to g
 
 - The DexNav from Omega Ruby and Alpha Sapphire on the touch screen: see which Pokémon live in each area and which you've caught, and search for hidden ones with perfect IVs, egg moves, hidden abilities and shiny chains ([how it works](docs/dexnav.md)).
 - Following Pokémon: your first Pokémon walks behind you. Birch asks about it in a new game, and the aide in his lab switches it on or off, on older saves too.
+- Pokémon from other regions: Gen 4 and Gen 5 Pokémon in every route, cave and sea, and newer teams for the Gym Leaders, Elite Four and Champion. Birch asks about it in a new game, and an aide in his lab switches it for older saves.
 - Field moves work without teaching HMs: just the badge and the HM in your Bag.
 - A Gen 6-style Exp. Share you switch on and off. Opponent levels are [scaled to match it](docs/levels.md).
 - Every trade evolution happens in-game, by level-up or by using an item.
@@ -80,7 +87,7 @@ More shots, with captions, are in [screenshots/](screenshots/).
    - size 536,870,912 bytes
    - CRC32 `D4427FD1`
    - SHA-1 `e51e6dfb8678a3d19dcd2a10691b96a569ca0abb`
-2. Download `Pokemon_Sapphire_NDS_v20.2.bps`, `Pokemon_Ruby_NDS_v20.2.bps` or `Pokemon_Emerald_NDS_v3.2.bps` from [Releases](../../releases).
+2. Download `Pokemon_Sapphire_NDS_v21.0.bps`, `Pokemon_Ruby_NDS_v21.0.bps` or `Pokemon_Emerald_NDS_v4.0.bps` from [Releases](../../releases).
 3. Apply it to your dump with a BPS patcher, such as [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser), Floating IPS or beat.
    **Patch on a computer, not a phone.** Black 2 is a 512 MB game, and patching it takes more memory than a phone browser allows, so the patcher crashes or reloads. Patch on a Windows PC or Mac (Rom Patcher JS works in Chrome or Firefox), then copy the patched `.nds` to your phone.
 4. Play the patched `.nds` in an emulator such as melonDS, DraStic, DeSmuME or Delta (iPhone).

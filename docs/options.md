@@ -3,7 +3,7 @@
 
 # Start-of-game options
 
-Before your adventure starts, Professor Birch asks seven questions. Your answers set these options, and they can't be changed later, except Following Pokémon.
+Before your adventure starts, Professor Birch asks eight questions. Your answers set these options, and they can't be changed later, except Following Pokémon and Pokémon from other regions.
 
 | Question | Answers | What it changes |
 |---|---|---|
@@ -14,3 +14,6 @@ Before your adventure starts, Professor Birch asks seven questions. Your answers
 | Seasons | Yes / No | Yes: Black 2's seasons follow the month on your DS clock (spring: Jan/May/Sep, summer: Feb/Jun/Oct, autumn: Mar/Jul/Nov, winter: Apr/Aug/Dec). No: summer all year, as in Ruby and Sapphire. |
 | The Exp. Share | Yes / No | Yes: you start with the Exp. Share in your Key Items, switched on: Pokémon that don't battle still gain Exp. Points. Use it in the Bag to switch it off or on. No: Mr. Stone gives it to you in Rustboro after you deliver his Letter, as in the original games. |
 | Following Pokémon | Yes / No | Yes: your first Pokémon walks behind you. No: it stays in its Poké Ball. The aide in Birch's lab in Littleroot switches this on or off at any time, on saves from older versions too. |
+| Pokémon from other regions | Yes / No | Birch: "Pokémon from faraway regions, like Sinnoh and Unova, have been turning up all over Hoenn! Would you like to meet them on your adventure?" Yes: Pokémon from Sinnoh and Unova (Gen 4 and 5) live in Hoenn's grass, caves and water too, a few kinds in most areas, usually about a quarter of the encounters there (every kind of encounter but the Old Rod; the Gen 4 and 5 starters are very rare, one area each); the Gym Leaders, the Elite Four and the Champion bring some in their teams. No: only Hoenn's own Pokémon, as in the original games. A lab worker in Birch's lab switches this on or off at any time, on saves from older versions too; the Pokémon you caught stay with you. Every area's Pokémon are on the wild Pokémon pages ([Sapphire](wild-pokemon-sapphire.md), [Ruby](wild-pokemon-ruby.md), [Emerald](wild-pokemon-emerald.md)), the teams on the trainers pages ([Sapphire](trainers-sapphire.md), [Ruby](trainers-ruby.md), [Emerald](trainers-emerald.md)). |
+
+The Pokémon from other regions are not in the Hoenn Pokédex (its 202 Pokémon stay as they are): catching one registers it without a number, and it shows in the National Pokédex after the Hall of Fame.

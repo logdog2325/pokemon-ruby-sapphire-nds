@@ -55,7 +55,7 @@ Walk to it. If you run (holding B) or ride your Bicycle within 3 steps of the sp
 
 ## Search levels
 
-Every species has its own search level. It goes up by 1 each time you catch or knock out a Pokémon of that species found with the DexNav (the tutorial's counts too), up to 255. The Found and Hidden screens show it. A higher search level shows more on the Hidden screen ([above](#the-screen)) and gives better bonuses. Saves from older versions start every species at 0.
+Every species has its own search level. It goes up by 1 each time you catch or knock out a Pokémon of that species found with the DexNav (the tutorial's counts too), up to 255. The Found and Hidden screens show it. A higher search level shows more on the Hidden screen ([above](#the-screen)) and gives better bonuses. Saves from older versions start every species at 0. The Pokémon from other regions (an [option](options.md)) have no search level of their own: they always search at level 0, with its bonuses, however many you find.
 
 ## Bonuses
 
